@@ -1,4 +1,4 @@
-name: Milesight TS30x Series IoT Temperature Sensor
+name: Milesight TS30x - IoT Temperature Sensor
 description: TS301/TS302, the LoRaWAN® temperature sensor with an LCD display. This device seamlessly connects to high-accuracy PT100 temperature probes and door magnetic sensors. Ideal for the food processing, pharmaceutical storage, and cold chain industries.
 
 hardwareVersions:

@@ -1,4 +1,4 @@
-name: LoRaWAN Bathroom Occupancy Sensor
+name: Milesight VS330 - LoRaWAN Bathroom Occupancy Sensor
 description: VS330 is a LoRaWAN® bathroom occupancy sensor providing a cost-effective solution for monitoring the occupancy status of the bathrooms and the cubicles of a public toilet in different scenarios.
 
 hardwareVersions:

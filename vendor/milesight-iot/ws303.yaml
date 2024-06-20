@@ -1,4 +1,4 @@
-name: Mini Leak Detection Sensor
+name: Milesight WS303 - Mini Leak Detection Sensor
 description: WS303 is a tiny and mighty leakage detection sensor for detecting presence of water leaks and transmitting an alarm using LoRaWAN® technology
 
 hardwareVersions:

@@ -1,4 +1,4 @@
-name: Milesight EM500-PP Pipe Pressure Sensor
+name: Milesight EM500 - PP Pipe Pressure Sensor
 description: Milesight EM500-PP is an outdoor environment monitoring sensor for measuring pipe pressure in harsh environments. EM500-PP features a long-lasting battery life of up to 10 years, an IP67 UV-resistant and waterproof enclosure, and can be easily configured via NFC. It is widely used for applications like smart buildings, pipeline and tank systems monitoring, etc.
 
 hardwareVersions:

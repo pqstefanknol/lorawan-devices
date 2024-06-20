@@ -1,4 +1,4 @@
-name: Smart Fill Level Monitor Sensor
+name: Milesight WS201 - Smart Fill Level Monitor Sensor
 description: WS201 is a wireless fill-level monitoring sensor that securely monitors a small container’s fill level especially tissue boxes using ToF
 
 hardwareVersions:

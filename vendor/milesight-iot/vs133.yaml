@@ -1,4 +1,4 @@
-name: AI ToF People Counting Sensor
+name: Milesight VS133 - AI ToF People Counting Sensor
 description: VS133 is a sensor that uses second-generation ToF technology to accuratelycount people with an excellent privacy protection
 
 hardwareVersions:

@@ -1,4 +1,4 @@
-name: Motion&TH Sensor
+name: Milesight WS203 - Motion&TH Sensor
 description: Milesight WS203 is an environmental monitoring devicethat combines motion and temperature/humidity (TH) sensors.
 
 hardwareVersions:

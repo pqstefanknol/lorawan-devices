@@ -1,4 +1,4 @@
-name: Milesight WS136-Smart Scene Panel
+name: Milesight WS136 - Smart Scene Panel
 description: Milesight WS136 LoRaWAN® Smart Scene Panel gives a multi button control panel that can simply activate different pre-defined scenes with one-press. Without any additional cable, WS136 can be easily installed anywhere and used to control devices via LoRaWAN® or Milesight LoRa D2D communication protocol. Besides, It's equipped a user-defined E-ink screen to suit different scenes.
 
 hardwareVersions:
