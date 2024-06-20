@@ -1,4 +1,4 @@
-name: lht65n-pir
+name: Dragino LHT65N-PIR - Temperature, Humidity & PIR sensor
 description: The Dragino LHT65N-PIR Temperature, Humidity & PIR sensor is a Long Range LoRaWAN Sensor.It includes a built-in Temperature & Humidity sensor and has an external PIR Probe. LHT65N-PIR can detect environment Temperature & Humdity, it also detects People Activity via PIR probe and them send these info to LoRaWAN IoT Server.
 
 # Firmware versions (at least one is mandatory)

@@ -1,4 +1,4 @@
-name: PS-LB - Pressure Sensor
+name: Dragino PS-LB - Pressure Sensor
 description: LoRaWAN Pressure Sensor
 # Firmware versions (at least one is mandatory)
 firmwareVersions:

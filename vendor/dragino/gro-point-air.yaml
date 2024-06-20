@@ -1,4 +1,4 @@
-name: GroPoint Air - Multi Segment Soil Sensor Converter
+name: Dragino GroPoint Air - Multi Segment Soil Sensor Converter
 description: The Dragino GroPoint is a LoRaWAN Multi Soil Segment Converter for IoT of Agriculture. It is designed to connect to GroPoint Profile Multi-depth Soil moisture and temperature profile Sensor and get GroPoint Profile’s reading and send it to IoT server via LoRaWAN wireless network
 
 # Firmware versions (at least one is mandatory)
