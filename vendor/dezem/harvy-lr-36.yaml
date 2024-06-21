@@ -1,4 +1,4 @@
-name: HarvyLR 36 - Current Sensor
+name: Dezem HarvyLR 36 - Current Sensor
 description: Self-powered LoRaWAN IoT sensor for AC and DC currents
 
 # Hardware versions (optional, use when you have revisions)
@@ -26,14 +26,9 @@ firmwareVersions:
     # RU864-870
     profiles:
       EU863-870:
-        # Optional identifier of the vendor of the profile. When you specify the vendorID, the profile is loaded from
-        # the vendorID's folder. This allows you to reuse profiles from module or LoRaWAN end device stack vendors.
-        # If vendorID is empty, the current vendor ID is used. In this example, the vendorID is the current vendor ID,
-        # which is verbose.
-        vendorID: dezem
         # Identifier of the profile (lowercase, alphanumeric with dashes, max 36 characters)
         id: harvy-lr-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: harvy-lr-codec
 
 # Sensors that this device features (optional)
