@@ -1,4 +1,4 @@
-name: Macro Bluetooth Gateway
+name: Lansitec Macro Bluetooth Gateway
 description: Lansitec Macro Bluetooth Gateway is designed based on LoRaWAN and Bluetooth 5.0 technology. It receives nearby beacon information and forwards it to a LoRaWAN gateway. It is powered by 38,000mAh industrial battery with a standby time as long as 7 years.
 
 # Hardware versions (optional, use when you have revisions)
@@ -34,31 +34,31 @@ firmwareVersions:
         # vendorID: lansitec
         # Identifier of the profile (lowercase, alphanumeric with dashes, max 36 characters)
         id: profile-eu868
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: macro-bluetooth-gateway-codec
       US902-928:
         id: profile-us915
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: macro-bluetooth-gateway-codec
       AU915-928:
         id: profile-au915
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: macro-bluetooth-gateway-codec
       AS923:
         id: profile-as923
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: macro-bluetooth-gateway-codec
       CN470-510:
         id: profile-cn470
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: macro-bluetooth-gateway-codec
       KR920-923:
         id: profile-kr920
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: macro-bluetooth-gateway-codec
       IN865-867:
         id: profile-in865
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: macro-bluetooth-gateway-codec
 
 # Sensors that this device features (optional)

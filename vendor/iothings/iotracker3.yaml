@@ -1,4 +1,4 @@
-name: ioTracker 3
+name: IOThings ioTracker 3
 description: multi-sensor LoRaWAN tracker
 hardwareVersions:
   - version: '3'

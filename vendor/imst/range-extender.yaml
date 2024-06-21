@@ -1,4 +1,4 @@
-name: Wireless M-Bus Range Extender
+name: IMST Wireless M-Bus Range Extender
 description: The IMST Wireless M-Bus Range Extender is a compact and cost-effective device that collects wireless M-Bus messages from utility meters and forwards them to a LoRaWAN® network.
 
 # Hardware versions

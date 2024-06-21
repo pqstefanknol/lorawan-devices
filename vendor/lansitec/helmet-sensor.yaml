@@ -1,4 +1,4 @@
-name: Helmet Sensor
+name: Lansitec Helmet Sensor
 description: Lansitec Helmet Sensor is designed based on GNSS, Bluetooth5.0 and LoRaWAN technology. It supports indoor and outdoor tracking. It supports various features which contribute to easy management in industrial settings. Its built-in 3-axis accelerator could be used for determining the motion status of the terminal. Therefore, it can help save battery and enhance user experience. It is suitable for the following use cases:visitor management, factory worker tracking, construction worker tracking, vehicle tracking etc.
 
 # Hardware versions (optional, use when you have revisions)
@@ -34,31 +34,31 @@ firmwareVersions:
         # vendorID: lansitec
         # Identifier of the profile (lowercase, alphanumeric with dashes, max 36 characters)
         id: profile-eu868
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: helmet-sensor-codec
       US902-928:
         id: profile-us915
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: helmet-sensor-codec
       AU915-928:
         id: profile-au915
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: helmet-sensor-codec
       AS923:
         id: profile-as923
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: helmet-sensor-codec
       CN470-510:
         id: profile-cn470
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: helmet-sensor-codec
       KR920-923:
         id: profile-kr920
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: helmet-sensor-codec
       IN865-867:
         id: profile-in865
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: helmet-sensor-codec
 
 # Sensors that this device features (optional)

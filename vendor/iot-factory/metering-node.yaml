@@ -1,4 +1,4 @@
-name: Metering Node
+name: IOT-Factory Metering Node
 description: M-BUS Master Gateway and LORAWAN Converter
 
 # Hardware versions
@@ -23,15 +23,15 @@ firmwareVersions:
         codec: generic-codec
       RU864-870:
         id: otaa-class-a-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: generic-codec
       US902-928:
         id: otaa-class-a-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: generic-codec
       AS923:
         id: otaa-class-a-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: generic-codec
 
 # Sensors that this device features (optional)

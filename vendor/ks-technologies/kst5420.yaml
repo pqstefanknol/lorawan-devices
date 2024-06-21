@@ -1,4 +1,4 @@
-name: Impulse - Proof of Coverage Test Tool
+name: KS-Technologies Impulse - Proof of Coverage Test Tool
 description: Proof of Coverage Test Tool
 
 # Hardware versions (optional, use when you have revisions)
@@ -22,7 +22,7 @@ firmwareVersions:
       US902-928:
         #  vendorID: 800
         id: kst5420-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: kst5420-codec
 
 deviceType: cots

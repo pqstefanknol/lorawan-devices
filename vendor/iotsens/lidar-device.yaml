@@ -1,4 +1,4 @@
-name: Optical Distance Monitor
+name: IoTsens Optical Distance Monitor
 description: The IoTsens LoRaWAN® Optical Distance Monitor is equipped with a LIDAR sensor for monitoring filling levels. Thus, it becomes an optimal tool in waste management, and can also be used in the detection of liquid levels in tanks, among other applications.
 
 # Hardware versions (optional, use when you have revisions)
@@ -21,17 +21,17 @@ firmwareVersions:
       EU863-870:
         # Unique identifier of the profile (lowercase, alphanumeric with dashes, max 36 characters)
         id: devices-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         # codec: windsensor-codec
       US902-928:
         id: devices-profile
-        lorawanCertified: false
+        # lorawanCertified: true
       AU915-928:
         id: devices-profile
-        lorawanCertified: false
+        # lorawanCertified: true
       AS923:
         id: devices-profile
-        lorawanCertified: false
+        # lorawanCertified: true
 
 # Sensors that this device features (optional)
 # Valid values are: accelerometer, altitude, auxiliary, barometer, battery, button, co2, distance, dust, gps, gyroscope,

@@ -1,4 +1,4 @@
-name: izi-io 4840 - I/O Controller
+name: Izinto izi-io 4840 - I/O Controller
 description: The izinto izi-io 4840 is a multi-I/O controller with edge computing and LoRaWAN® connection that provides software configurable inputs for connecting digital, analog, and temperature sensors as well as Modbus and other serial devices.
 
 # Hardware versions (optional, use when you have revisions)
@@ -22,7 +22,7 @@ firmwareVersions:
         # Unique identifier of the profile (lowercase, alphanumeric with dashes, max 36 characters)
         id: izi-io-4840-profile-eu868
         #lorawanCertified: true
-        ##codec: izi-io-4840-codec
+        #codec: izi-io-4840-codec
 
 # Sensors that this device features (optional)
 # Valid values are:

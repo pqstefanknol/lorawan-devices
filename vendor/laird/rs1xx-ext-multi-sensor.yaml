@@ -1,4 +1,4 @@
-name: Sentrius RS1xx Multi Sensor
+name: Laird Sentrius RS1xx Multi Sensor
 description: The Laird Sentrius RS1xx Multi Sensor is a battery-powered, long-range sensor platform leveraging the benefits of LoRaWAN® and Bluetooth Low Energy (BLE) connectivity. Its small, rugged form factor contains superior RF performance and multiple sensor capabilities including Open/Closed detection alongside temperature and humidity sensors, making it a perfect fit for cold chain applications.
 
 # Hardware versions (optional, use when you have revisions)
@@ -21,19 +21,19 @@ firmwareVersions:
       EU863-870:
         # Unique identifier of the profile (lowercase, alphanumeric with dashes, max 36 characters)
         id: rs1xx-sensor-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: rs1xx-ext-multi-sensor-codec
       US902-928:
         id: rs1xx-sensor-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: rs1xx-ext-multi-sensor-codec
       AU915-928:
         id: rs1xx-sensor-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: rs1xx-ext-multi-sensor-codec
       AS923:
         id: rs1xx-sensor-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: rs1xx-ext-multi-sensor-codec
 
 # Sensors that this device features (optional)

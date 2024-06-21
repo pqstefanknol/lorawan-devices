@@ -1,4 +1,4 @@
-name: Sentrius RS1xx Temp-RH Sensor
+name: Laird Sentrius RS1xx Temp-RH Sensor
 description: The Laird Sentrius™ RS1xx Temp/-RH has a temperature sensor, humidity sensor, and an external open/closed detection sensor making it a perfect fit for cold chain applications. It uses LoRaWAN® and Bluetooth Low Energy (BLE) for data communication. The robust IP65 sensor enclosure allows it to be used in harsh environments.
 
 # Hardware versions (optional, use when you have revisions)
@@ -21,19 +21,19 @@ firmwareVersions:
       EU863-870:
         # Unique identifier of the profile (lowercase, alphanumeric with dashes, max 36 characters)
         id: rs1xx-sensor-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: rs1xx-temp-rh-sensor-codec
       US902-928:
         id: rs1xx-sensor-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: rs1xx-temp-rh-sensor-codec
       AU915-928:
         id: rs1xx-sensor-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: rs1xx-temp-rh-sensor-codec
       AS923:
         id: rs1xx-sensor-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: rs1xx-temp-rh-sensor-codec
 
 # Sensors that this device features (optional)

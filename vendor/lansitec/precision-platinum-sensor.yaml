@@ -1,4 +1,4 @@
-name: Precision Platinum Sensor
+name: Lansitec Precision Platinum Sensor
 description: Lansitec precision platinum temperature sensor is designed based on the advanced LoRa modulation and powered by a lithium battery with 6-year operation time. It is a cost-effective LoRaWAN end device for a variety of application scenarios. Its long operation time offers low maintenance. Therefore, it is ideal for industrial use. The sensor work mode can be adjusted via the LoRaWAN Network. Lansitec sensor family is fully compatible and plug-and-play for the LoRaWAN network operation. Lansitec sensors can also work with Lansitec Wireless Data Transfer Unit (P/N:100-00175) for low-cost deployment. Please contact us for further information. Context:Busway temperature monitor, gas and fluid temperature monitor
 
 # Hardware versions (optional, use when you have revisions)
@@ -34,31 +34,31 @@ firmwareVersions:
         # vendorID: lansitec
         # Identifier of the profile (lowercase, alphanumeric with dashes, max 36 characters)
         id: profile-eu868
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: precision-platinum-sensor-codec
       US902-928:
         id: profile-us915
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: precision-platinum-sensor-codec
       AU915-928:
         id: profile-au915
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: precision-platinum-sensor-codec
       AS923:
         id: profile-as923
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: precision-platinum-sensor-codec
       CN470-510:
         id: profile-cn470
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: precision-platinum-sensor-codec
       KR920-923:
         id: profile-kr920
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: precision-platinum-sensor-codec
       IN865-867:
         id: profile-in865
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: precision-platinum-sensor-codec
 
 # Sensors that this device features (optional)

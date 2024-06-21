@@ -1,4 +1,4 @@
-name: Simple actuator
+name: Lualtek Simple actuator
 description: A simple actuator that can control 1 or 2 relays.
 
 # Hardware versions (optional, use when you have revisions)

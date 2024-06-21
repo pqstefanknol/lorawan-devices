@@ -1,4 +1,4 @@
-name: Asset Tracker
+name: IOT-Factory Asset Tracker
 description: LORAWAN  Geolocation and Activity Asset Tracker
 
 # Hardware versions
@@ -19,19 +19,19 @@ firmwareVersions:
     profiles:
       EU863-870:
         id: otaa-class-a-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: generic-codec
       RU864-870:
         id: otaa-class-a-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: generic-codec
       US902-928:
         id: otaa-class-a-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: generic-codec
       AS923:
         id: otaa-class-a-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: generic-codec
 
 # Sensors that this device features

@@ -1,4 +1,4 @@
-name: Sound Level Meter
+name: IoTsens Sound Level Meter
 description: The IoTsens Sound Level Meter has an integrated microphone (sound sensor) that can monitor noise levels. The collected data is transmitted over the LoRaWAN® network for further processing.
 
 # Hardware versions (optional, use when you have revisions)
@@ -21,17 +21,17 @@ firmwareVersions:
       EU863-870:
         # Unique identifier of the profile (lowercase, alphanumeric with dashes, max 36 characters)
         id: devices-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         # codec: windsensor-codec
       US902-928:
         id: devices-profile
-        lorawanCertified: false
+        # lorawanCertified: true
       AU915-928:
         id: devices-profile
-        lorawanCertified: false
+        # lorawanCertified: true
       AS923:
         id: devices-profile
-        lorawanCertified: false
+        # lorawanCertified: true
 
 # Sensors that this device features (optional)
 # Valid values are: accelerometer, altitude, auxiliary, barometer, battery, button, co2, distance, dust, gps, gyroscope,

@@ -1,4 +1,4 @@
-name: izi-io 4840 /heat - I/O Controller
+name: Izinto izi-io 4840 /heat - I/O Controller
 description: Specially designed for monitoring building heating systems, the izinto izi-io 4840 /heat is an industry-strength controller with edge computing and LoRaWAN® connection. Up to 8 temperature sensors or other inputs such as sensors and switches may be connected.
 
 # Hardware versions (optional, use when you have revisions)
@@ -22,7 +22,7 @@ firmwareVersions:
         # Unique identifier of the profile (lowercase, alphanumeric with dashes, max 36 characters)
         id: izi-io-4840-profile-eu868
         #lorawanCertified: true
-        ##codec: izi-io-4840-codec
+        #codec: izi-io-4840-codec
 
 # Sensors that this device features (optional)
 # Valid values are:

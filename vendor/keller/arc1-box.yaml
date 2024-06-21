@@ -1,4 +1,4 @@
-name: ARC1 Box - Remote Transmitter
+name: Keller ARC1 Box - Remote Transmitter
 description: The KELLER ARC1-Box is a remote transmission unit with a data logger. It records measurements made by external sensors (e.g. a level probe) and periodically transmits the collected data via LoRaWAN®.
 
 firmwareVersions:
@@ -7,11 +7,11 @@ firmwareVersions:
     profiles:
       EU863-870:
         id: arc1-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: keller-codec
       US902-928:
         id: arc1-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: keller-codec
 
 # This device can be connected with various kind of KELLER pressure sensors including Level Probes and transmitters

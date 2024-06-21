@@ -1,4 +1,4 @@
-name: Buzzon Button
+name: Jeng-IOT Buzzon Button
 description: Wireless button for outdoor usage in public space
 
 # Hardware versions (optional, use when you have revisions)
@@ -28,7 +28,7 @@ firmwareVersions:
         #vendorID: jeng-iot
         # Identifier of the profile (lowercase, alphanumeric with dashes, max 36 characters)
         id: buzzon-profile-868
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: buzzon-codec
       # US902-928:
       #   id: windsensor-profile
