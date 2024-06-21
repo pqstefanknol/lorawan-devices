@@ -1,4 +1,4 @@
-name: SLG-I3 Parking Sensor
+name: Cicicom SLG-I3 Parking Sensor
 description: Cicicom's LoRaWAN smart parking sensor SL-G-I3 accurately detects parking events, by utilizing cutting-edge triple detection technology (magnetic sensor, motion sensor, radar). All sensors and algorithms are tuned and optimized for ultra-low power consumption, providing continuous vehicle detection with higher than 99% accuracy and resulting to complete monitoring and management of parking spots.
 # Hardware versions (optional, use when you have revisions)
 hardwareVersions:

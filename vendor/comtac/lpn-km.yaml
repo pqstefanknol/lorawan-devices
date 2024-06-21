@@ -1,4 +1,4 @@
-name: LPN KM - Short-circuit monitor
+name: Comtac LPN KM - Short-circuit monitor
 description: The Comtac LPN KM Short Circuit monitor detects short-circuit and ground fault. The integrated battery-supported power supply and the easy integration into private or public LoRaWAN® networks allow a cost-effective upgrade of stations for faster fault localization and resupply.
 
 # Hardware versions (optional, use when you have revisions)

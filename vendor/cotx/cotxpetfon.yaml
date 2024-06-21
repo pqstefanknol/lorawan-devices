@@ -1,6 +1,6 @@
 id: cotxpetfon
-name: Petfon LoRa Tracker
-description: With the LoRaWAN protocol, you can track anything you want, such as pets, children, cars, etc.
+name: COTX Petfon LoRa Tracker
+description: With the COTX Petfon LoRa Tracker, you can track anything you want, such as pets, children, cars, etc.
 
 # Hardware versions (optional, use when you have revisions)
 hardwareVersions:
@@ -32,11 +32,11 @@ firmwareVersions:
         # vendorID: example
         # Identifier of the profile (lowercase, alphanumeric with dashes, max 36 characters)
         id: cotxpetfon-eu868
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: cotxpetfon-codec
       US902-928:
         id: cotxpetfon-us915
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: cotxpetfon-codec
 
 # Sensors that this device features (optional)
