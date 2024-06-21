@@ -1,5 +1,5 @@
-name: GA5067 - Cattle Tracking
-description: GA5067 is a LoRa-based (LTE cat1, LTEM optional) GPS tracking device for cattle tracking with Li-SOCl2 battery. The Collar’s GPS location data will be uplinked to the LoRaWAN gateway according to the schedule you choose, The collar is programmed wirelessly by the network server. You can control how often GPS location data are collected, and can also remotely command program changes to the fixed-rate and mortality schedule, fixed duration time, and GPS location data transmission interval.
+name: Agriseen GA5067 - Cattle Tracking
+description: Agriseen GA5067 is a LoRa-based (LTE cat1, LTEM optional) GPS tracking device for cattle tracking with Li-SOCl2 battery. The Collar’s GPS location data will be uplinked to the LoRaWAN gateway according to the schedule you choose, The collar is programmed wirelessly by the network server. You can control how often GPS location data are collected, and can also remotely command program changes to the fixed-rate and mortality schedule, fixed duration time, and GPS location data transmission interval.
 
 # Hardware versions (optional, use when you have revisions)
 hardwareVersions:
@@ -29,22 +29,15 @@ firmwareVersions:
     # RU864-870
     profiles:
       EU863-870:
-        # Optional identifier of the vendor of the profile. When you specify the vendorID, the profile is loaded from
-        # the vendorID's folder. This allows you to reuse profiles from module or LoRaWAN end device stack vendors.
-        # If vendorID is empty, the current vendor ID is used. In this example, the vendorID is the current vendor ID,
-        # which is verbose.
-        # vendorID: example
         # Identifier of the profile (lowercase, alphanumeric with dashes, max 36 characters)
         id: ga5067-profile-868
         # lorawanCertified: true
-      US902-928:
-        id: ga5067-profile-915
+      # US902-928:
+        # id: ga5067-profile-915
         # lorawanCertified: true
-        # codec: windsensor-codec
-      AS923:
-        id: ga5067-profile-923
+      # AS923:
+        # id: ga5067-profile-923
         # lorawanCertified: true
-        # codec: windsensor-codec
 
 # Sensors that this device features (optional)
 # Valid values are:
