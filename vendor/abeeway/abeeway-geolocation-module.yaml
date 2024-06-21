@@ -21,15 +21,15 @@ firmwareVersions:
         # Unique identifier of the profile (lowercase, alphanumeric with dashes, max 36 characters)
         id: abeeway-eu868
         lorawanCertified: true
-      # US902-928:
-        # id: abeeway-us915
-        # lorawanCertified: true
-      # AU915-928:
-        # id: abeeway-as923
-        # lorawanCertified: true
-      # AS923:
-        # id: abeeway-as923
-        # lorawanCertified: true
+      US902-928:
+        id: abeeway-us915
+        lorawanCertified: true
+       #AU915-928:
+         #id: abeeway-as923
+         #lorawanCertified: true
+      AS923:
+        id: abeeway-as923
+        lorawanCertified: true
       # KR920-923:
         # id: abeeway-eu868
         # lorawanCertified: true
