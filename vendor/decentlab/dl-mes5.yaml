@@ -1,4 +1,4 @@
-name: DL-MES5 - Large-Range Optical Turbidity and Temperature Sensor For LoRaWAN
+name: Decentlab DL-MES5 - Large-Range Optical Turbidity and Temperature Sensor For LoRaWAN
 description: The Decentlab DL-MES5 is an optical turbidity sensor for LoRaWAN®. Suitable for applications such as urban waste water treatment, treatment of industrial effluents, sludge treatment, and dredging site.
 
 hardwareVersions:
@@ -17,7 +17,7 @@ firmwareVersions:
         codec: dl-mes5-codec
       AS923:
         id: profile-as923
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: dl-mes5-codec
       US902-928:
         id: profile-us915
@@ -25,7 +25,7 @@ firmwareVersions:
         codec: dl-mes5-codec
       AU915-928:
         id: profile-au915
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: dl-mes5-codec
 
 sensors:

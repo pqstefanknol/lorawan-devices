@@ -1,4 +1,4 @@
-name: DL-MBX - Ultrasonic Distance / Level Sensor
+name: Decentlab DL-MBX - Ultrasonic Distance / Level Sensor
 description: The Decentlab DL-MBX is equipped with an ultrasonic distance/level sensor for measuring distance. Suitable for monitoring water level, flood, snow level, silo level, etc.
 
 hardwareVersions:
@@ -34,7 +34,7 @@ firmwareVersions:
         codec: dl-mbx-codec
       AS923:
         id: profile-as923
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: dl-mbx-codec
       US902-928:
         id: profile-us915
@@ -42,7 +42,7 @@ firmwareVersions:
         codec: dl-mbx-codec
       AU915-928:
         id: profile-au915
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: dl-mbx-codec
 
 sensors:

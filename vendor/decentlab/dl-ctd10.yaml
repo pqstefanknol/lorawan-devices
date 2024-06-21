@@ -1,4 +1,4 @@
-name: DL-CTD10 - Pressure / Liquid Level, Temperature and Electrical Conductivity Sensor
+name: Decentlab DL-CTD10 - Pressure / Liquid Level, Temperature and Electrical Conductivity Sensor
 description: The Decentlab DL-CTD10 consists of pressure/liquid level, temperature, and electrical conductivity sensors. It is suitable for use in monitoring level/depth and water quality in tanks for liquids, groundwater and wells, running or open water level and quality, and salinity and chloride monitoring.
 
 hardwareVersions:
@@ -18,7 +18,7 @@ firmwareVersions:
         codec: dl-ctd10-codec
       AS923:
         id: profile-as923
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: dl-ctd10-codec
       US902-928:
         id: profile-us915
@@ -26,7 +26,7 @@ firmwareVersions:
         codec: dl-ctd10-codec
       AU915-928:
         id: profile-au915
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: dl-ctd10-codec
 
 sensors:

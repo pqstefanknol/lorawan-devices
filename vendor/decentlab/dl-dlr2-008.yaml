@@ -1,4 +1,4 @@
-name: DL-DLR2-008 - Analog PT100 Sensor Transmitter
+name: Decentlab DL-DLR2-008 - Analog PT100 Sensor Transmitter
 description: The Decentlab DL-DLR2-008 is an Analog or Digital Sensor Device for LoRaWAN® that consists of an Analog PT100 Sensor.
 
 hardwareVersions:
@@ -18,7 +18,7 @@ firmwareVersions:
         codec: dl-dlr2-008-2000-codec
       AS923:
         id: profile-as923
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: dl-dlr2-008-2000-codec
       US902-928:
         id: profile-us915
@@ -26,7 +26,7 @@ firmwareVersions:
         codec: dl-dlr2-008-2000-codec
       AU915-928:
         id: profile-au915
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: dl-dlr2-008-2000-codec
 
 sensors:

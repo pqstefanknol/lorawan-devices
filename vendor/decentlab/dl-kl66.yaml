@@ -1,4 +1,4 @@
-name: DL-KL66 - Strain / Weight Sensor
+name: Decentlab DL-KL66 - Strain / Weight Sensor
 description: The Decentlab DL-KL66 is equipped with a vibrating wire that works as a strain/ weight sensor for measuring strain and weight. Suitable for monitoring silo fill level, structural health, weighing, component deformation and strain, and cracks.
 
 hardwareVersions:
@@ -18,7 +18,7 @@ firmwareVersions:
         codec: dl-kl66-1538372-464859-codec
       AS923:
         id: profile-as923
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: dl-kl66-1538372-464859-codec
       US902-928:
         id: profile-us915
@@ -26,7 +26,7 @@ firmwareVersions:
         codec: dl-kl66-1538372-464859-codec
       AU915-928:
         id: profile-au915
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: dl-kl66-1538372-464859-codec
 
 sensors:

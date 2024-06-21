@@ -1,4 +1,4 @@
-name: DL-PM - Particulate Matter, Temperature, Humidity and Barometric Pressure Sensor
+name: Decentlab DL-PM - Particulate Matter, Temperature, Humidity and Barometric Pressure Sensor
 description: The Decentlab DL-PM is equipped with PM1, PM2.5, PM4, PM10, temperature, humidity, and barometric pressure sensors for air quality and environmental monitoring.
 
 hardwareVersions:
@@ -18,7 +18,7 @@ firmwareVersions:
         codec: dl-pm-codec
       AS923:
         id: profile-as923
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: dl-pm-codec
       US902-928:
         id: profile-us915
@@ -26,7 +26,7 @@ firmwareVersions:
         codec: dl-pm-codec
       AU915-928:
         id: profile-au915
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: dl-pm-codec
 
 sensors:

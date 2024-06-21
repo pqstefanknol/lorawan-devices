@@ -1,4 +1,4 @@
-name: DL-GMM - Greenhouse Multi Monitor
+name: Decentlab DL-GMM - Greenhouse Multi Monitor
 description: The Decentlab DL-GMM includes a Photosynthetically Active Radiation (PAR), temperature, humidity, barometric pressure and CO2 sensors for LoRaWAN®. Suitable for applications such as smart agriculture, greenhouses, grow rooms, and vertical farms.
 
 hardwareVersions:
@@ -17,7 +17,7 @@ firmwareVersions:
         codec: dl-gmm-codec
       AS923:
         id: profile-as923
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: dl-gmm-codec
       US902-928:
         id: profile-us915
@@ -25,7 +25,7 @@ firmwareVersions:
         codec: dl-gmm-codec
       AU915-928:
         id: profile-au915
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: dl-gmm-codec
 
 sensors:

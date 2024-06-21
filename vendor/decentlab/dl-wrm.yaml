@@ -1,4 +1,4 @@
-name: DL-WRM - Winter Road Maintenance Sensor
+name: Decentlab DL-WRM - Winter Road Maintenance Sensor
 description: The Decentlab DL-WRM includes an infrared pyrometer, temperature, and humidity sensors. It is suitable for use in winter road maintenance, frost alarming, ice alerting, and smart agriculture.
 
 hardwareVersions:
@@ -22,7 +22,7 @@ firmwareVersions:
         codec: dl-wrm-codec
       AS923:
         id: profile-as923
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: dl-wrm-codec
       US902-928:
         id: profile-us915
@@ -30,7 +30,7 @@ firmwareVersions:
         codec: dl-wrm-codec
       AU915-928:
         id: profile-au915
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: dl-wrm-codec
 
 sensors:
