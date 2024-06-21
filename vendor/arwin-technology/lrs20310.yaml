@@ -1,5 +1,5 @@
-name: LRS20310 - Water Leak Sensor
-description: Water Leak Sensor
+name: Arwin LRS20310 - Water Leak Sensor
+description: Arwin Water Leak Sensor
 
 # Hardware versions (optional, use when you have revisions)
 hardwareVersions:
@@ -28,15 +28,15 @@ firmwareVersions:
       EU863-870:
         # Identifier of the profile (lowercase, alphanumeric with dashes, max 36 characters)
         id: eu868-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: lrs20310-codec
       US902-928:
         id: us915-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: lrs20310-codec
       AS923:
         id: as923-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: lrs20310-codec
 
 # Sensors that this device features (optional)

@@ -1,4 +1,4 @@
-name: LRS20100 - Temperature & Humidity Sensor
+name: Arwin LRS20100 - Temperature & Humidity Sensor
 description: Temperature and Humidity Sensor
 
 # Hardware versions (optional, use when you have revisions)
@@ -28,15 +28,15 @@ firmwareVersions:
       EU863-870:
         # Identifier of the profile (lowercase, alphanumeric with dashes, max 36 characters)
         id: eu868-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: lrs20100-codec
       US902-928:
         id: us915-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: lrs20100-codec
       AS923:
         id: as923-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: lrs20100-codec
 
 # Sensors that this device features (optional)

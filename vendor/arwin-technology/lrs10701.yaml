@@ -1,5 +1,5 @@
-name: LRS10701 - Indoor Air Quality (IAQ) Sensor
-description: Indoor Air Quality (IAQ) Sensor
+name: Arwin LRS10701 - Indoor Air Quality (IAQ) Sensor
+description: Arwin Indoor Air Quality (IAQ) Sensor
 
 # Hardware versions (optional, use when you have revisions)
 hardwareVersions:
@@ -28,15 +28,15 @@ firmwareVersions:
       EU863-870:
         # Identifier of the profile (lowercase, alphanumeric with dashes, max 36 characters)
         id: eu868-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: lrs10701-codec
       US902-928:
         id: us915-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: lrs10701-codec
       AS923:
         id: as923-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: lrs10701-codec
 
 # Sensors that this device features (optional)

@@ -1,5 +1,5 @@
-name: LRS2M001-4P3P - Power Monitoring Sensor
-description: Power Monitoring Sensor
+name: Arwin LRS2M001-4P3P - Power Monitoring Sensor
+description: Arwin Power Monitoring Sensor
 
 # Hardware versions (optional, use when you have revisions)
 hardwareVersions:
@@ -28,15 +28,15 @@ firmwareVersions:
       EU863-870:
         # Identifier of the profile (lowercase, alphanumeric with dashes, max 36 characters)
         id: eu868-profile
-        lorawanCertified: false
+        #lorawanCertified: true
         codec: lrs2m001-4xxx-codec
       US902-928:
         id: us915-profile
-        lorawanCertified: false
+        #lorawanCertified: true
         codec: lrs2m001-4xxx-codec
       AS923:
         id: as923-profile
-        lorawanCertified: false
+        #lorawanCertified: true
         codec: lrs2m001-4xxx-codec
 
 # Sensors that this device features (optional)
