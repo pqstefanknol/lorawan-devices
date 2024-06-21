@@ -1,4 +1,4 @@
-name: YO Meter Reader 2.0
+name: Yosensi YO Meter Reader 2.0
 description: YO Meter Reader 2.0 is a battery-powered LoRaWAN device enabling data reading from LED pulse detector. Additionally, the device has built-in temperature and humidity sensors.It provides data transmission, eliminating the need for manual readings and potential errors. Its versatile applications include smart metering, energy consumption monitoring, and billing systems.
 # Hardware versions (optional, use when you have revisions)
 hardwareVersions:

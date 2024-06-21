@@ -1,4 +1,4 @@
-name: eBeat Device Arm Band
+name: TEKTELIC eBeat Device Arm Band
 description: The eBeat by TEKTELIC is the ideal solution to continuously monitor the health and well-being of medical facility patients, senior care residents, or any other individual for potential respiratory illness or other health indicators requiring intervention. This specialized device is designed to continuously monitor an individuals body temperature, one of the most common symptoms of respiratory illness. An adjustable, washable arm-band strap ensures the device can be worn comfortably and discreetly in any situation.
 
 # Hardware versions (optional, use when you have revisions)
@@ -18,31 +18,31 @@ firmwareVersions:
     profiles:
       EU863-870:
         id: t0007405-868-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: t0007405-codec
       US902-928:
         id: t0007405-915-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: t0007405-codec
       AU915-928:
         id: t0007405-915-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: t0007405-codec
       AS923:
         id: t0007405-923-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: t0007405-codec
       IN865-867:
         id: t0007405-865-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: t0007405-codec
       KR920-923:
         id: t0007405-920-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: t0007405-codec
       RU864-870:
         id: t0007405-864-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: t0007405-codec
 
 sensors:

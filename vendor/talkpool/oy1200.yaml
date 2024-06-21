@@ -1,4 +1,4 @@
-name: OY1200 LoRaWAN® CO2 meter
+name: TalkPool OY1200 LoRaWAN® CO2 meter
 description: LoRaWAN sensor that measures CO2
 
 # Firmware versions (at least one is mandatory)

@@ -1,4 +1,4 @@
-name: LoRaWAN Soil Moisture, Temperature | Air temperature/humidity | boosted 12v output from battery
+name: Tinovi LoRaWAN Soil Moisture, Temperature | Air temperature/humidity | boosted 12v output from battery
 description: LoRaWAN IO module with optional Soil and Air Lux sensors and optional boosted 12v reversible polarity output for latching valves.
 
 # Hardware versions (optional, use when you have revisions)

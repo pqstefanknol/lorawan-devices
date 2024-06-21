@@ -1,5 +1,5 @@
 id: ncc405fm
-name: Smart Car Counter G4 FM
+name: NWave Smart Car Counter G4 FM
 partNumber: NCC-4.5-FM
 description: The wireless passing vehicle counting sensor 99.5% counting accuracy , low profile - 20mm.
 hardwareVersions:
@@ -14,15 +14,15 @@ firmwareVersions:
       EU863-870:
         id: ncc405-profile
         codec: ncc405-codec
-        lorawanCertified: false
+        # lorawanCertified: true
       US902-928:
         id: ncc405-profile
         codec: ncc405-codec
-        lorawanCertified: false
+        # lorawanCertified: true
       AU915-928:
         id: ncc405-profile
         codec: ncc405-codec
-        lorawanCertified: false
+        # lorawanCertified: true
 sensors:
   - magnetometer
   - temperature

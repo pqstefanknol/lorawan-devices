@@ -1,4 +1,4 @@
-name: T0007377 - PELICAN Enterprise Outdoor Tracker
+name: TEKTELIC T0007377 - PELICAN Enterprise Outdoor Tracker
 description: TEKTELIC PELICAN [Enterprise Outdoor Tracker] is an ideal solution for locating, tracking and managing assets in difficult RF environments such as manufacturing, shipping and rail yards and equipment storage facilities. This device combines the long range, low power benefits of LoRaWAN® with the universal availability and reliability of Bluetooth Low Energy (BLE).
 
 # Hardware versions (optional, use when you have revisions)
@@ -19,31 +19,31 @@ firmwareVersions:
     profiles:
       EU863-870:
         id: t0007377-868-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: t0007377-codec
       US902-928:
         id: t0007377-915-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: t0007377-codec
       AU915-928:
         id: t0007377-915-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: t0007377-codec
       AS923:
         id: t0007377-923-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: t0007377-codec
       IN865-867:
         id: t0007377-865-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: t0007377-codec
       KR920-923:
         id: t0007377-920-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: t0007377-codec
       RU864-870:
         id: t0007377-864-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: t0007377-codec
 
 sensors:

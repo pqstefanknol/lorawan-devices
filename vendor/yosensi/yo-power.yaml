@@ -1,4 +1,4 @@
-name: YO Power
+name: Yosensi YO Power
 description: YO Power measures AC current flowing through devices connected to the mains. It can be fitted with up to six current clamps. It is possible to connect current-rated clamps with current output from almost every manufacturer. One YO Power device can measure multiple currents simultaneously (e.g. in one three-phase device, two three-phase devices, six single-phase devices, three single-phase devices, etc.).
 # Hardware versions (optional, use when you have revisions)
 hardwareVersions:

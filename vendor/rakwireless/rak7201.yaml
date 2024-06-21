@@ -1,4 +1,4 @@
-name: RAK7201 WisNode Button 4K
+name: RakWireless RAK7201 WisNode Button 4K
 description: The RAK7201 WisNode Button 4K is a remote wireless trigger device. It supports user-defined functions for each key and is based on the LoRaWAN 1.0.2 protocol
 
 # Hardware versions (optional, use when you have revisions)
@@ -20,12 +20,12 @@ firmwareVersions:
     profiles:
       EU863-870:
         id: rak7201-868-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: rak7201-codec
 
       US902-928:
         id: rak7201-915-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: rak7201-codec
 
 sensors:

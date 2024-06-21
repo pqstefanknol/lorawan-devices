@@ -1,4 +1,4 @@
-name: Soil Moisture Sensor
+name: Teneo IoT Soil Moisture Sensor
 description: The Teneo IoT Soil Moisture Sensor is a dedicated LoRa node designed for remote monitoring of the humidity of the soil; for example with young trees and / or planting.
 
 # Hardware versions (optional, use when you have revisions)

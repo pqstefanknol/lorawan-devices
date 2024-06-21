@@ -1,4 +1,4 @@
-name: Environment sensor
+name: N-Fuse Environment sensor
 description: Environment sensor. BME680 (IAQ, CO2-e, bVOC-e, pressure, temperature, humidity).
 firmwareVersions:
   - version: '1.1'
@@ -6,51 +6,51 @@ firmwareVersions:
     profiles:
       EU863-870:
         id: sx1261-16db-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: ste-codec
       US902-928:
         id: sx1261-16db-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: ste-codec
       EU433:
         id: sx1261-12db-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: ste-codec
       AU915-928:
         id: sx1261-16db-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: ste-codec
       CN470-510:
         id: sx1261-16db-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: ste-codec
       KR920-923:
         id: sx1261-14db-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: ste-codec
       IN865-867:
         id: sx1261-16db-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: ste-codec
       RU864-870:
         id: sx1261-16db-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: ste-codec
       AS923:
         id: sx1261-16db-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: ste-codec
       AS923-2:
         id: sx1261-16db-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: ste-codec
       AS923-3:
         id: sx1261-16db-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: ste-codec
       AS923-4:
         id: sx1261-16db-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: ste-codec
 sensors:
   - battery # health via voltage (MCU internal)

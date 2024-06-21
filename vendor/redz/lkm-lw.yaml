@@ -1,4 +1,4 @@
-name: LKM LoRaWAN Meter Reader
+name: RedZ LKM LoRaWAN Meter Reader
 description: LKM LoRaWAN Meter Reader series reads Energy Meters and send data to LoRaWAN Server ( and to MQTT server if needed and converts data to Modbus)
 
 # Hardware versions (optional, use when you have revisions)

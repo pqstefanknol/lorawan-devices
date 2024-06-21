@@ -1,4 +1,4 @@
-name: Multisensor
+name: N-Fuse Multisensor
 description: Multisensor variant with five sensor measurements. HDC2080 (Temperature, Humidity), BMA400 (accelerometer), SFH7776 (luminance), Reed switch (magnet sensing switch).
 firmwareVersions:
   - version: '1.1'
@@ -6,51 +6,51 @@ firmwareVersions:
     profiles:
       EU863-870:
         id: sx1261-16db-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: stx-codec
       US902-928:
         id: sx1261-16db-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: stx-codec
       EU433:
         id: sx1261-12db-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: stx-codec
       AU915-928:
         id: sx1261-16db-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: stx-codec
       CN470-510:
         id: sx1261-16db-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: stx-codec
       KR920-923:
         id: sx1261-14db-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: stx-codec
       IN865-867:
         id: sx1261-16db-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: stx-codec
       RU864-870:
         id: sx1261-16db-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: stx-codec
       AS923:
         id: sx1261-16db-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: stx-codec
       AS923-2:
         id: sx1261-16db-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: stx-codec
       AS923-3:
         id: sx1261-16db-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: stx-codec
       AS923-4:
         id: sx1261-16db-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: stx-codec
 sensors:
   - battery # health via voltage (MCU internal)

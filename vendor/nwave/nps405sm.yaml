@@ -1,5 +1,5 @@
 id: nps405sm
-name: Smart Parking Sensor G4 SM
+name: NWave Smart Parking Sensor G4 SM
 partNumber: NPS-4.5-SM
 description: The wireless vehicle detection sensor with high detection accuracy 99.7%, fast detection 3-5 seconds, low profile - 20mm, 10 years battery life @20 parking sessions a day, vehicle counting capabilities.
 hardwareVersions:
@@ -14,15 +14,15 @@ firmwareVersions:
       EU863-870:
         id: nps405-profile
         codec: nps405-codec
-        lorawanCertified: false
+        # lorawanCertified: true
       US902-928:
         id: nps405-profile
         codec: nps405-codec
-        lorawanCertified: false
+        # lorawanCertified: true
       AU915-928:
         id: nps405-profile
         codec: nps405-codec
-        lorawanCertified: false
+        # lorawanCertified: true
 sensors:
   - magnetometer
   - temperature

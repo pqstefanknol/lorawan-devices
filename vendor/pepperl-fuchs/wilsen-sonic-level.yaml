@@ -1,4 +1,4 @@
-name: WILSEN.sonic.level
+name: Pepperl-Fuchs WILSEN.sonic.level
 description: Wireless ultrasonic sensor with LoRaWAN interface
 
 # Hardware versions (optional, use when you have revisions)
@@ -27,7 +27,7 @@ firmwareVersions:
         vendorID: pepperl-fuchs
         # Identifier of the profile (lowercase, alphanumeric with dashes, max 36 characters)
         id: wilsen-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: wilsen-sonic-level-codec
 
   - # Firmware version
@@ -49,7 +49,7 @@ firmwareVersions:
         vendorID: pepperl-fuchs
         # Identifier of the profile (lowercase, alphanumeric with dashes, max 36 characters)
         id: wilsen-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: wilsen-sonic-level-codec
 
 # Sensors that this device features (optional)

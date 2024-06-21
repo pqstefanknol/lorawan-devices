@@ -1,4 +1,4 @@
-name: PCR2 Radar People Counter
+name: Parametric PCR2 Radar People Counter
 description: Parametric‘s PCR2 people counter uses radar signals to provide a camera-less solution. Utilising LoRaWAN™ technology, these sensors transmit data at regular intervals. With bi-directional counting, the Parametric PCR2 people counter registers people passing by from left or right.
 # Hardware versions (optional, use when you have revisions)
 hardwareVersions:

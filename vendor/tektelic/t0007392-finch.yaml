@@ -1,4 +1,4 @@
-name: FINCH SafeAlert Indoor Sensor
+name: TEKTELIC FINCH SafeAlert Indoor Sensor
 description: TEKTELIC’s FINCH [SafeAlert Indoor Sensor] is a compact, mobile, wireless BLE panic button that transmits an emergency signal from any location. FINCH is ideal for lone workers, seniors, and children to signal for help in an emergency situation. When triggered, this device instantly sends an SOS message containing location details to designated support staff or security personnel to ensure a rapid response in the event of a panic situation. This device combines the long-range, low-power communication capabilities of LoRaWAN® with the universal availability and reliability of Bluetooth Low Energy (BLE) to provide real-time location information. FINCH is seamlessly integrated with TEKTELIC’s endto-end IoT solution
 
 # Hardware versions (optional, use when you have revisions)
@@ -18,31 +18,31 @@ firmwareVersions:
     profiles:
       EU863-870:
         id: t0007392-868-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: t0007392-codec
       US902-928:
         id: t0007392-915-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: t0007392-codec
       AU915-928:
         id: t0007392-915-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: t0007392-codec
       AS923:
         id: t0007392-923-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: t0007392-codec
       IN865-867:
         id: t0007392-865-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: t0007392-codec
       KR920-923:
         id: t0007392-920-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: t0007392-codec
       RU864-870:
         id: t0007392-864-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: t0007392-codec
 
 sensors:

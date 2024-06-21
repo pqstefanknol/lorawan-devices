@@ -1,4 +1,4 @@
-name: LoRa Boat Monitor
+name: Open Boat Projects LoRa Boat Monitor
 description: The LoRa boat monitor is used to monitor the boat when you are away. Various measured values such as battery voltage, GPS position, humidity, temperature, air pressure, filling levels, bilge and door contact are continuously forwarded to the LoRaWAN and recorded at freely adjustable time intervals via the LoRa radio technology.
 
 # Hardware versions (optional, use when you have revisions)

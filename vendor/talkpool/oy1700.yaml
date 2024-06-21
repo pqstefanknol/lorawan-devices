@@ -1,4 +1,4 @@
-name: OY1700 LoRaWAN Particles meter
+name: TalkPool OY1700 LoRaWAN Particles meter
 description: LoRaWAN sensor that measures temperature, humidity and particles, in indoor environments. Easy to use, configurable over the air and stylish in design to fit into indoor spaces.
 
 # Firmware versions (at least one is mandatory)

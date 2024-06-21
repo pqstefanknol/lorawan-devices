@@ -1,4 +1,4 @@
-name: MCS LRW - Multisensor
+name: ThermoKon MCS LRW - Multisensor
 description: Indoor Multicompact Sensor
 
 # Hardware versions (optional, use when you have revisions)
@@ -27,7 +27,7 @@ firmwareVersions:
         vendorID: thermokon
         # Identifier of the profile (lowercase, alphanumeric with dashes, max 36 characters)
         id: thermokon-1-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: thermokon-codec
 
 # Sensors that this device features (optional)

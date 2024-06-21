@@ -1,4 +1,4 @@
-name: YO Refrigerant Monitor
+name: Yosensi YO Refrigerant Monitor
 description: YO Refrigerant Monitor provides data on installation pressure. This information makes it possible to verify the correct functioning of the installation, as well as to prevent potential damage and the loss of materials and products that the installation maintains.
 # Hardware versions (optional, use when you have revisions)
 hardwareVersions:

@@ -1,4 +1,4 @@
-name: Lynx - Micro LoRa GPS Tracker
+name: Rivercity Innovations Lynx - Micro LoRa GPS Tracker
 description: The Lynx is a micro LoRa GPS tracker meant for use on small assets such as bikes and pets. Charging is made easy with a built in micro-usb charging port and an LED status indicator. Product of BeeSecure by Rivercity Innovations Ltd.
 
 # Hardware versions (optional, use when you have revisions)
@@ -29,11 +29,11 @@ firmwareVersions:
       EU863-870:
         # Identifier of the profile (lowercase, alphanumeric with dashes, max 36 characters)
         id: lynx-profile-868
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: lynx-codec
       US902-928:
         id: lynx-profile-915
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: lynx-codec
       AU915-928:
         id: lynx-profile-915

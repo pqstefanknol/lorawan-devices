@@ -1,4 +1,4 @@
-name: eDoctor Device
+name: TEKTELIC eDoctor Device
 description: The TEKTELIC eDoctor Device is the ideal solution to monitor patients and vulnerable individuals for potential respiratory illness. This specialized device is designed to continuously monitor and detect the most common symptoms of respiratory illness including increased body temperature and breathing rate, persistent cough and accelerated heart rate. An adjustable, washable strap ensures the device can be worn comfortably and discreetly in any situation. The eDoctor utilizes the long range and low power capabilities of LoRaWAN® to provide reliable “Always On” connectivity and unprecedented battery life of over 3 months.
 
 # Hardware versions (optional, use when you have revisions)
@@ -18,31 +18,31 @@ firmwareVersions:
     profiles:
       EU863-870:
         id: t0006923-868-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: t0006923-codec
       US902-928:
         id: t0006923-915-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: t0006923-codec
       AU915-928:
         id: t0006923-915-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: t0006923-codec
       AS923:
         id: t0006923-923-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: t0006923-codec
       IN865-867:
         id: t0006923-865-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: t0006923-codec
       KR920-923:
         id: t0006923-920-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: t0006923-codec
       RU864-870:
         id: t0006923-864-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: t0006923-codec
 
 sensors:

@@ -1,4 +1,4 @@
-name: YO Airflow Pro Dual
+name: Yosensi YO Airflow Pro Dual
 description: The YO Airflow Pro dual is equipped with two differential pressure sensors. It can be used to verify the dirtiness of air filters and control the pressure in air conditioning systems and air blowers. Other uses include controlling and monitoring airflow and air pressure in fan coil units. The device communicates wirelessly over LoRaWAN.
 # Hardware versions (optional, use when you have revisions)
 hardwareVersions:

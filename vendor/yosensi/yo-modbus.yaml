@@ -1,4 +1,4 @@
-name: YO Modbus
+name: Yosensi YO Modbus
 description: YO Modbus is the bridge between the Modbus network and LoRaWAN. It allows to read data via Modbus RTU from Slave devices and send it via LoRaWAN. One YO Modbus device provides capacity to create up to 150 Modbus queries and to send them in up to 30 different LoRa packets. These are sent in LoRA packets of up to 5 queries each (i.e. maximum of 30 packets).
 # Hardware versions (optional, use when you have revisions)
 hardwareVersions:

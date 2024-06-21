@@ -1,4 +1,4 @@
-name: SEAL Wearable Safety & GPS Tracker
+name: TEKTELIC SEAL Wearable Safety & GPS Tracker
 description: Wearable industrial device for comprehensive safety monitoring and location tracking of personnel
 
 # Firmware versions (at least one is mandatory)
@@ -13,11 +13,11 @@ firmwareVersions:
     profiles:
       EU863-870:
         id: t0007705-868-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: t0007705-codec
       US902-928:
         id: t0007705-915-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: t0007705-codec
 
 sensors:

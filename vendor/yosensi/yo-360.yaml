@@ -1,4 +1,4 @@
-name: YO 360
+name: Yosensi YO 360
 description: YO 360 measures temperature and humidity, and it sends its own position on the x, y, and z axes (via a built-in accelerometer). Its small size, battery power supply, and wide data transmission range allow the device to be used virtually anywhere. The device is equipped with a lithium battery with a very low level of self-discharge.
 # Hardware versions (optional, use when you have revisions)
 hardwareVersions:

@@ -1,4 +1,4 @@
-name: Grain Probe
+name: SmartRural Grain Probe
 description: Grain probe for use as a 0006-000002 Grain monitor
 
 # Hardware versions (optional, use when you have revisions)
@@ -113,23 +113,23 @@ firmwareProgramming:
   - fuota lorawan
 
 # Product and data sheet URLs (optional)
-productURL: https://example.org/wind-sensor
-dataSheetURL: https://example.org/wind-sensor/datasheet.pdf
+# productURL: https://example.org/wind-sensor
+# dataSheetURL: https://example.org/wind-sensor/datasheet.pdf
 
 # Commercial information
-resellerURLs:
-  - name: 'Reseller 1'
-    region:
-      - European Union
-    url: https://example.org/reseller1
-  - name: 'Reseller 2'
-    region:
-      - United States
-      - Canada
-    url: https://example.org/reseller2
-msrp:
-  EUR: 90
-  USD: 120
+# resellerURLs:
+  # - name: 'Reseller 1'
+    # region:
+      # - European Union
+    # url: https://example.org/reseller1
+  # - name: 'Reseller 2'
+    # region:
+      # - United States
+      # - Canada
+    # url: https://example.org/reseller2
+# msrp:
+  # EUR: 90
+  # USD: 120
 
 photos:
   main: grain-probe.png

@@ -1,4 +1,4 @@
-name: Wisblock Kit 1 - Indoor Ambient Monitor
+name: RakWireless Wisblock Kit 1 - Indoor Ambient Monitor
 description: The WisBlock Kit 1 is composed of RAK4631 WisBlock Core, RAK1901 Temperature and Relative Humidity, RAK1902 Barometric Pressure and RAK1903 Light Sensors.
 
 # Hardware versions (optional, use when you have revisions)
@@ -20,12 +20,12 @@ firmwareVersions:
     profiles:
       EU863-870:
         id: rak4631-868-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: wisblock-kit-codec
 
       US902-928:
         id: rak4631-915-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: wisblock-kit-codec
 
 sensors:

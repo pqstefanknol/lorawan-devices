@@ -1,4 +1,4 @@
-name: TLM LoRaWAN EndNode Modem
+name: RedZ TLM LoRaWAN EndNode Modem
 description: TLM LoRaWAN EndNode Modem read field Modbus/TCP/RTU devices and send data to LoRaWAN Server
 
 # Hardware versions (optional, use when you have revisions)

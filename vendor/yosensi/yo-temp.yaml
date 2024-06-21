@@ -1,4 +1,4 @@
-name: YO Temp
+name: Yosensi YO Temp
 description: YO Temp is a LoRaWAN device for measuring temperature at three external points. Additionally, the device contains sensors that measure temperature and relative humidity.
 # Hardware versions (optional, use when you have revisions)
 hardwareVersions:

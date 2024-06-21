@@ -1,4 +1,4 @@
-name: SMC30 - Senstick Microclimate
+name: Senzemo SMC30 - Senstick Microclimate
 description: The Senzemo Senstick Microclimate is an industrial-grade LoRaWAN® microclimate sensor for use with indoor or outdoor harsh environments that features temperature, humidity, pressure, and movement sensors. Suitable for applications such as monitoring temperature in medical refrigerators, improving thermal comfort for workers, reducing overheating of machines in manufacturing, monitoring temperature and relative humidity of air.
 
 # Hardware versions (optional, use when you have revisions)
@@ -21,19 +21,19 @@ firmwareVersions:
     profiles:
       EU863-870:
         id: profile-eu868
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: smc30-codec
       AS923:
         id: profile-as923
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: smc30-codec
       US902-928:
         id: profile-us915
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: smc30-codec
       AU915-928:
         id: profile-au915
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: smc30-codec
 
 # Sensors that this device features (optional)

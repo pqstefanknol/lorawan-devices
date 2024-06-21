@@ -1,4 +1,4 @@
-name: YO H2O
+name: Yosensi YO H2O
 description: YO H2O is a device that operates on a LoRaWAN network and is used for flood detection.The device also transmits measurements of temperature and humidity and sends information about its own position on x, y, z axes (using an in-built accelerometer).
 # Hardware versions (optional, use when you have revisions)
 hardwareVersions:

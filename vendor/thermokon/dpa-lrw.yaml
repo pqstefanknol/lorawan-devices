@@ -1,4 +1,4 @@
-name: DPA+ LRW - Pressure & Volume Flow Sensor
+name: ThermoKon DPA+ LRW - Pressure & Volume Flow Sensor
 description: Differential Pressure and Volume Flow Sensor
 
 # Hardware versions (optional, use when you have revisions)
@@ -27,7 +27,7 @@ firmwareVersions:
         vendorID: thermokon
         # Identifier of the profile (lowercase, alphanumeric with dashes, max 36 characters)
         id: thermokon-2-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: thermokon-codec
 # Sensors that this device features (optional)
 # Valid values are:

@@ -1,4 +1,4 @@
-name: EL - Air Quality Sensor
+name: Sezo EL - Air Quality Sensor
 description: Environment Sensor
 
 # Hardware versions (optional, use when you have revisions)
@@ -29,7 +29,7 @@ firmwareVersions:
         vendorID: sezo
         # Identifier of the profile (lowercase, alphanumeric with dashes, max 36 characters)
         id: sezo-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: sezo-codec
 
   - # Firmware version
@@ -56,7 +56,7 @@ firmwareVersions:
         vendorID: sezo
         # Identifier of the profile (lowercase, alphanumeric with dashes, max 36 characters)
         id: sezo-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: sezo-codec
 # Sensors that this device features (optional)
 # Valid values are:

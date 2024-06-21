@@ -1,4 +1,4 @@
-name: YO Agribox
+name: Yosensi YO Agribox
 description: YO AgriBox is a LoRaWAN device for measuring soil moisture at 3 points. Additionally, the device contains sensors that measure temperature and relative humidity inside the device. YO AgriBox makes it easy to plan and maintain optimum growing conditions for plants.
 # Hardware versions (optional, use when you have revisions)
 hardwareVersions:

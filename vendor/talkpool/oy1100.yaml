@@ -1,4 +1,4 @@
-name: OY1100 LoRaWAN® temperature and humidity sensor
+name: TalkPool OY1100 LoRaWAN® temperature and humidity sensor
 description: LoRaWAN sensor that measures temperature and humidity, with an incredible maintenance free lifetime of 10 years at a 5-minute measurement interval. Easy to use, configurable over the air and stylish in design to fit into indoor spaces.
 
 # Firmware versions (at least one is mandatory)

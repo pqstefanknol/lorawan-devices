@@ -1,4 +1,4 @@
-name: NEON Vibration Sensor
+name: TWTG NEON Vibration Sensor
 description: NEON Vibration Sensor
 
 # Hardware versions
@@ -21,7 +21,7 @@ firmwareVersions:
     profiles:
       EU863-870:
         id: ds-vb-01-01-profile-868
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: ds-vb-01-xx-codec
 
 # You can add more firmware versions and use different profiles per version

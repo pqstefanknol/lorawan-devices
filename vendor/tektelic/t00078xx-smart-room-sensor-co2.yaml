@@ -1,4 +1,4 @@
-name: BREEZE CO2 Smart Room Sensor
+name: TEKTELIC BREEZE CO2 Smart Room Sensor
 description: The TEKTELIC BREEZE is a member of our Smart Room Sensor family and integrates practical functionality into a very small form factor. With two variants options, it is an ideal solution for holistically monitoring ambient indoor environments. This device will continuously collect data for not only CO2 levels, but it can also track ambient temperature and humidity.
 
 hardwareVersions:
@@ -18,19 +18,19 @@ firmwareVersions:
     profiles:
       EU863-870:
         id: t00078xx-868-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: t00078xx-codec
       US902-928:
         id: t00078xx-915-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: t00078xx-codec
       AU915-928:
         id: t00078xx-915-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: t00078xx-codec
       AS923:
         id: t00078xx-923-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: t00078xx-codec
 
 # Sensors that this device features (optional)

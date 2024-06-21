@@ -1,4 +1,4 @@
-name: YO Ambience
+name: Yosensi YO Ambience
 description: YO Ambience is a compact indoor ambience monitoring device designed to measure temperature, humidity, illuminance, and CO2 levels. It also has an infrared presence sensor, which is equipped with an occupancy counter algorithm, enabling it to count the passes of people to the room where the sensor is located. Intended for use in offices, stores, classrooms, hospitals, and more, the YO Ambience device provides valuable insights into indoor conditions and occupancy of the room.
 # Hardware versions (optional, use when you have revisions)
 hardwareVersions:

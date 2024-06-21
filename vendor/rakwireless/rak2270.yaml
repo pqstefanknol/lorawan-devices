@@ -1,4 +1,4 @@
-name: RAK2270 WisNode Sticker Tracker
+name: RakWireless RAK2270 WisNode Sticker Tracker
 description: RAK2270 is a sleek sticker tracker for LoRaWAN® designed like a label, making it easy to attach to any product. It offers real-time location tracking through network trilateration. With a built-in temperature sensor and an integrated 3-axis accelerometer, it provides accurate temperature monitoring and optimized device usage.
 
 # Hardware versions (optional, use when you have revisions)
@@ -20,11 +20,11 @@ firmwareVersions:
     profiles:
       EU863-870:
         id: rak2270-868-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: rak2270-codec
       US902-928:
         id: rak2270-915-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: rak2270-codec
 
 sensors:

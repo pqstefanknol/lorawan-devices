@@ -1,4 +1,4 @@
-name: HUR LoRaWAN Remote I/O Device
+name: RedZ HUR LoRaWAN Remote I/O Device
 description: HUR LoRaWAN I/O Device has various Inputs and/or Outputs and send I/O data to LoRaWAN Server ( and to MQTT server if needed and converts data to Modbus)
 
 # Hardware versions (optional, use when you have revisions)

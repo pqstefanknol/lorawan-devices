@@ -1,4 +1,4 @@
-name: Sampols
+name: OrbiWise Sampols
 description: The Sampols noise sensor is a high-performance and low-cost remote wireless sensor for acoustic noise (sound) measurement.It continuously measures and compute the equivalent noise level averaged over 1 second in dBA (Leq1s) and periodically transmits reports containing noise level distribution information (by default mean, minimum, maximum of Leq1s, L10, L50 L90 and L95) and meta data such as temperature or battery level. Sampols noise sensor is autonomous, easy to deploy and can perform continuous measurements over long periods of time.
 
 # Firmware versions (at least one is mandatory)

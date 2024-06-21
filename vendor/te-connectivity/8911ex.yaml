@@ -1,4 +1,4 @@
-name: 8911EX - Single-Axis Vibration Sensor
+name: TE-Connectivity 8911EX - Single-Axis Vibration Sensor
 description: The TE model 8911EX wireless vibration sensor combines a single axis accelerometer, a bundled DSP (FFT peak search), a data collector, and a radio into one compact, battery operated device that measures both vibration and temperature data. It was designed for hash environment and comes with the ATEX certification.
 
 # Hardware versions (optional, use when you have revisions)

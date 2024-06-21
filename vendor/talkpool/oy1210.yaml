@@ -1,4 +1,4 @@
-name: OY1210 LoRaWAN CO2 meter
+name: TalkPool OY1210 LoRaWAN CO2 meter
 description: LoRaWAN sensor that measures temperature, humidity and carbon dioxide, with an incredible maintenance free lifetime of 5 years at a 20-minute reporting interval. Easy to use, configurable over the air and stylish in design to fit into indoor spaces. Supports adaptive reporting functionality to detect rapid changes in CO2 levels.
 
 # Firmware versions (at least one is mandatory)

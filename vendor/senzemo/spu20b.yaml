@@ -1,4 +1,4 @@
-name: SPU20B - Senspuck Pure Battery
+name: Senzemo SPU20B - Senspuck Pure Battery
 description: The Senzemo Senpuck Pure is an indoor LoRaWAN® air quality sensor that measures CO2, TVOC, temperature, realtive humidity, and pressure. Suitable for monitoring air quality in enterprise and public spaces. The device sends data to the LoRaWAN® network and notifies users to open the windows if the air quality is poor.
 
 # Hardware versions (optional, use when you have revisions)
@@ -21,19 +21,19 @@ firmwareVersions:
     profiles:
       EU863-870:
         id: profile-eu868
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: spu20b-codec
       AS923:
         id: profile-as923
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: spu20b-codec
       US902-928:
         id: profile-us915
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: spu20b-codec
       AU915-928:
         id: profile-au915
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: spu20b-codec
 
 # Sensors that this device features (optional)

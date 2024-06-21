@@ -1,5 +1,5 @@
 id: nps310sm
-name: Smart Parking Sensor
+name: NWave Smart Parking Sensor
 partNumber: NPS-3.10-SM
 description: The Nwave Smart Parking Sensor is equipped with a magnetometer, temperature, and proximity sensors for parking detection. The smart parking sensors installed in each parking spot generate data on space occupancy in real-time and is transmitted over a LoRaWAN network.
 hardwareVersions:
@@ -13,15 +13,15 @@ firmwareVersions:
     profiles:
       EU863-870:
         id: nps310sm-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: nps310sm-codec
       US902-928:
         id: nps310sm-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: nps310sm-codec
       AU915-928:
         id: nps310sm-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: nps310sm-codec
 sensors:
   - magnetometer

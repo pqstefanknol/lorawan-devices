@@ -1,4 +1,4 @@
-name: VOLC2180
+name: SLSCorp VOLC2180
 description: Lora-based Outdoor Street light controller, Suitable for Smart Street Light applications such as monitoring, controlling, alarms notification, Smart City, Smart Lighting, and suitable for Pole mount.
 
 hardwareVersions:

@@ -1,4 +1,4 @@
-name: WILSEN.sonic.distance
+name: Pepperl-Fuchs WILSEN.sonic.distance
 description: Wireless ultrasonic sensor with LoRaWAN interface
 
 # Hardware versions (optional, use when you have revisions)
@@ -27,7 +27,7 @@ firmwareVersions:
         vendorID: pepperl-fuchs
         # Identifier of the profile (lowercase, alphanumeric with dashes, max 36 characters)
         id: wilsen-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: wilsen-sonic-distance-codec
 
 # Sensors that this device features (optional)

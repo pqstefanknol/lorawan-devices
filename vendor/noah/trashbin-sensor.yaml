@@ -1,4 +1,4 @@
-name: Trashbin Sensor
+name: Noah Trashbin Sensor
 description: Trashbin Sensor for Monitoring trash fill level
 
 # Hardware versions (optional, use when you have revisions)
@@ -33,7 +33,7 @@ firmwareVersions:
         vendorID: noah
         # Identifier of the profile (lowercase, alphanumeric with dashes, max 36 characters)
         id: trashbin-sensor-eu868
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: trashbin-sensor-codec
 
 # Sensors that this device features (optional)

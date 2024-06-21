@@ -1,4 +1,4 @@
-name: Action button
+name: N-Fuse Action button
 description: Action Button with tactile feedback in a very compact Form Factor
 firmwareVersions:
   - version: '1.1'
@@ -6,51 +6,51 @@ firmwareVersions:
     profiles:
       EU863-870:
         id: sx1261-16db-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: sta-codec
       US902-928:
         id: sx1261-16db-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: sta-codec
       EU433:
         id: sx1261-12db-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: sta-codec
       AU915-928:
         id: sx1261-16db-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: sta-codec
       CN470-510:
         id: sx1261-16db-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: sta-codec
       KR920-923:
         id: sx1261-14db-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: sta-codec
       IN865-867:
         id: sx1261-16db-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: sta-codec
       RU864-870:
         id: sx1261-16db-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: sta-codec
       AS923:
         id: sx1261-16db-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: sta-codec
       AS923-2:
         id: sx1261-16db-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: sta-codec
       AS923-3:
         id: sx1261-16db-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: sta-codec
       AS923-4:
         id: sx1261-16db-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: sta-codec
 sensors:
   - battery # health via voltage (MCU internal)

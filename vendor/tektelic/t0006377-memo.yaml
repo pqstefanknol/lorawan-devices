@@ -1,4 +1,4 @@
-name: MEMO Multi-Purpose Display Tablet
+name: TEKTELIC MEMO Multi-Purpose Display Tablet
 description: Dynamic, adaptable, and low-power E-ink display
 
 # Firmware versions (at least one is mandatory)
@@ -13,11 +13,11 @@ firmwareVersions:
     profiles:
       EU863-870:
         id: t0006086-868-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: t0006086-codec
       US902-928:
         id: t0006086-915-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: t0006086-codec
 
 deviceType: cots

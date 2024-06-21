@@ -1,4 +1,4 @@
-name: Remote temperature sensor
+name: Nke Watteco Remote temperature sensor
 description: The nke WATTECO Remote temperature sensor is dedicated to connecting a temperature sensor probe for measuring temperature in buildings, temperature-controlled rooms, cooling towers. It transmits the data over a public or private LoRaWAN® radio network.
 
 # Hardware versions (optional, use when you have revisions)

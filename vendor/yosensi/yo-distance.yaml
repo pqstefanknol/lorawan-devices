@@ -1,4 +1,4 @@
-name: YO Distance
+name: Yosensi YO Distance
 description: YO Distance is a LoRaWAN device for ultrasonic distance measurement. An example of using this device is monitoring the water level in the tank. Additionally, the device contains sensors that measure temperature, relative humidity and an accelerometer that enables to determine whether the device has been installed correctly.
 # Hardware versions (optional, use when you have revisions)
 hardwareVersions:

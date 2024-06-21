@@ -1,4 +1,4 @@
-name: YO Airflow
+name: Yosensi YO Airflow
 description: YO Airflow Pro provides differential pressure data for ventilation systems, making it possible to identify when air filters need replacing. Thus, users can make decisions based on objective parameters rather than on visual inspection or scheduled replacement times.
 # Hardware versions (optional, use when you have revisions)
 hardwareVersions:
