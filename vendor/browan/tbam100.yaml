@@ -1,4 +1,4 @@
-name: Ambient Light Sensor
+name: Browan Ambient Light Sensor
 description: The Browan Ambient Light Sensor integrates an optical sensor providing measurements of ambient light intensity which matches the human eye’s response to light under a variety of lighting conditions. It utilizes LoRaWAN® connectivity to transmit data.
 
 hardwareVersions:

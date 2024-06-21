@@ -1,4 +1,4 @@
-name: Door/Window Sensor
+name: Browan Door/Window Sensor
 description: The Browan Door/Window sensor integrates a hall-effect sensor for detecting the opening and closing of doors, windows, garage doors, vaults, and entryways. It utilizes LoRaWAN® connectivity to transmit data.
 
 hardwareVersions:

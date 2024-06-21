@@ -1,4 +1,4 @@
-name: IAQ Sensor
+name: Browan IAQ Sensor
 description: The Browan IAQ Sensor integrates an indoor air quality sensor (IAQ) for measuring relative humidity, barometric pressure, ambient temperature, and gas (VOC) in indoor environments such as rooms and buildings. It utilizes LoRaWAN® connectivity to transmit data.
 
 hardwareVersions:
