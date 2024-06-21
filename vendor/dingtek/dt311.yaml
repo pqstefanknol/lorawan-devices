@@ -1,4 +1,4 @@
-name: DT311 - Temperature & Humidity Sensor
+name: Dingtek DT311 - Temperature & Humidity Sensor
 description: The CNDingtek dt311 is temperature and humidity sensor for indoor using.
 
 # Hardware versions (optional, use when you have revisions)
@@ -31,31 +31,31 @@ firmwareVersions:
     profiles:
       EU863-870:
         id: dingtek-profile-868
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: dt311-codec
       US902-928:
         id: dingtek-profile-915
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: dt311-codec
       AU915-928:
         id: dingtek-profile-915
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: dt311-codec
       AS923:
         id: dingtek-profile-923
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: dt311-codec
       IN865-867:
         id: dingtek-profile-865
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: dt311-codec
       CN470-510:
         id: dingtek-profile-470
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: dt311-codec
       RU864-870:
         id: dingtek-profile-868
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: dt311-codec
 
 # Sensors that this device features (optional)

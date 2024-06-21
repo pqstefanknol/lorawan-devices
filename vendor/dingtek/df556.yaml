@@ -1,4 +1,4 @@
-name: DF556 - Pressure Tank Level Sensor
+name: Dingtek DF556 - Pressure Tank Level Sensor
 description: The CNDingtek df556 is a pressure type level for kinds tank, which is installed on top of the tank.
 
 # Hardware versions (optional, use when you have revisions)
@@ -31,31 +31,31 @@ firmwareVersions:
     profiles:
       EU863-870:
         id: dingtek-profile-868
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: df556-codec
       US902-928:
         id: dingtek-profile-915
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: df556-codec
       AU915-928:
         id: dingtek-profile-915
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: df556-codec
       AS923:
         id: dingtek-profile-923
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: df556-codec
       IN865-867:
         id: dingtek-profile-865
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: df556-codec
       CN470-510:
         id: dingtek-profile-470
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: df556-codec
       RU864-870:
         id: dingtek-profile-868
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: df556-codec
 
 # Sensors that this device features (optional)

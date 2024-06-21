@@ -1,4 +1,4 @@
-name: DC520 - People Counter
+name: Dingtek DC520 - People Counter
 description: The CNDingtek dc520 is a microwave radar bidirection people counter for indoor using, which calculate the people number for in/out respectively.
 
 # Hardware versions (optional, use when you have revisions)
@@ -31,31 +31,31 @@ firmwareVersions:
     profiles:
       EU863-870:
         id: dingtek-profile-868
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: dc520-codec
       US902-928:
         id: dingtek-profile-915
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: dc520-codec
       AU915-928:
         id: dingtek-profile-915
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: dc520-codec
       AS923:
         id: dingtek-profile-923
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: dc520-codec
       IN865-867:
         id: dingtek-profile-865
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: dc520-codec
       CN470-510:
         id: dingtek-profile-470
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: dc520-codec
       RU864-870:
         id: dingtek-profile-868
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: dc520-codec
 
 # Sensors that this device features (optional)

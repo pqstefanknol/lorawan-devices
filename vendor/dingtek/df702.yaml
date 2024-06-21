@@ -1,4 +1,4 @@
-name: DF702 - Waste Bin Level Sensor
+name: Dingtek DF702 - Waste Bin Level Sensor
 description: The CNDingtek DF702 is a waste bin sensor that consists of a level sensor, fire sensor, and accelerometer. The measured data is reported to a LoRaWAN® network that notifies garbage collecting authorities to collect and empty the bins.
 
 # Hardware versions (optional, use when you have revisions)
@@ -31,31 +31,31 @@ firmwareVersions:
     profiles:
       EU863-870:
         id: dingtek-profile-868
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: df702-codec
       US902-928:
         id: dingtek-profile-915
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: df702-codec
       AU915-928:
         id: dingtek-profile-915
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: df702-codec
       AS923:
         id: dingtek-profile-923
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: df702-codec
       IN865-867:
         id: dingtek-profile-865
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: df702-codec
       CN470-510:
         id: dingtek-profile-470
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: df702-codec
       RU864-870:
         id: dingtek-profile-868
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: df702-codec
 
 # Sensors that this device features (optional)
