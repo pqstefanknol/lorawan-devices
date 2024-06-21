@@ -32,11 +32,11 @@ firmwareVersions:
         # Identifier of the profile (lowercase, alphanumeric with dashes, max 36 characters)
         id: ga5067-profile-868
         # lorawanCertified: true
-      # US902-928:
-        # id: ga5067-profile-915
+      US902-928:
+        id: ga5067-profile-915
         # lorawanCertified: true
-      # AS923:
-        # id: ga5067-profile-923
+      AS923:
+        id: ga5067-profile-923
         # lorawanCertified: true
 
 # Sensors that this device features (optional)
