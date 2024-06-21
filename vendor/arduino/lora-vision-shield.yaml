@@ -1,4 +1,4 @@
-name: Portenta Vision Shield LoRa®
+name: Arduino Portenta Vision Shield LoRa®
 description: The Arduino Portenta Vision Shield LoRa® consists of a 320x320 pixels camera sensor and two onboard microphones for directional sound detection. It allows you to run embedded computer vision applications. The Vision Shield LoRa® has been designed to work with the Arduino Portenta H7.
 
 # Hardware versions (optional, use when you have revisions)
