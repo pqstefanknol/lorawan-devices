@@ -1,4 +1,4 @@
-name: MCF-LWWS01 - Weather Station
+name: Enginko MCF-LWWS01 - Weather Station
 description: The enginko MCF-LWWS01 integrates a LoRaWAN® communication system in a Davis Instruments Vantage Pro2 Weather Station. The station is equipped with a wide range of sensors such as temperature, humidity, pressure, rainfall, dew point, wind speed, wind direction, solar radiation, PM1, PM2.5, and PM10. Suitable for smart agriculture, industry, smart city, and waste station control applications.
 
 # Firmware versions (at least one is mandatory)
@@ -17,15 +17,15 @@ firmwareVersions:
         codec: mcf-lwws0x-codec
       US902-928:
         id: us915-profile-a
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: mcf-lwws0x-codec
       AU915-928:
         id: au915-profile-a
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: mcf-lwws0x-codec
       AS923:
         id: as923-profile-a
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: mcf-lwws0x-codec
 
 # Sensors that this device features (optional)

@@ -1,4 +1,4 @@
-name: MCF-LW12PLG - Smart Plug
+name: Enginko MCF-LW12PLG - Smart Plug
 description: The enginko MCF-LW12PLG is a LoRaWAN® Energy Meter plug with On/Off capability that supports metering and switching of a 230Vac – 16 Amp Load (active, reactive, and apparent energy; Class 0.2).
 
 # Firmware versions (at least one is mandatory)
@@ -13,19 +13,19 @@ firmwareVersions:
       EU863-870:
         # Unique identifier of the profile (lowercase, alphanumeric with dashes, max 36 characters)
         id: eu868-profile-c
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: mcf-power-codec
       US902-928:
         id: us915-profile-c
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: mcf-power-codec
       AU915-928:
         id: au915-profile-c
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: mcf-power-codec
       AS923:
         id: as923-profile-c
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: mcf-power-codec
 
 # Sensors that this device features (optional)

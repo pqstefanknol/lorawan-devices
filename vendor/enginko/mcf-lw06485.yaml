@@ -1,4 +1,4 @@
-name: MCF-LW06485 - Modbus Interface
+name: Enginko MCF-LW06485 - Modbus Interface
 description: This device can be interfaced to any Modbus RTU RDS485 device to read and write any register of the connected device through the LoRaWAN® platform.
 # Firmware versions (at least one is mandatory)
 firmwareVersions:
@@ -16,15 +16,15 @@ firmwareVersions:
         codec: mcf-lw06485-codec
       US902-928:
         id: us915-profile-a
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: mcf-lw06485-codec
       AU915-928:
         id: au915-profile-a
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: mcf-lw06485-codec
       AS923:
         id: as923-profile-a
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: mcf-lw06485-codec
 
 # Sensors that this device features (optional)

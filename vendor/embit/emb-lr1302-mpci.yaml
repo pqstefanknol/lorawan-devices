@@ -1,4 +1,4 @@
-name: EMB-LR1302-mPCI
+name: Embit EMB-LR1302-mPCI
 description: The embit EMB-LR1302-mPCI is a mini PCI express multichannel LoRa® card. It can operate on the 868 or 915 MHz radio band. It is suitable for applications that require long-range connectivity like logistic and supply chain, industrial monitoring and control, factory automation, home & building automation, and wireless alarm & security systems.
 
 # Firmware versions (at least one is mandatory)

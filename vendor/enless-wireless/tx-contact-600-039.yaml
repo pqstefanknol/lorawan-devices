@@ -1,4 +1,4 @@
-name: 600-039 - Digital Input sensor (status report ON/OFF)
+name: Enless Wireless 600-039 - Digital Input sensor (status report ON/OFF)
 description: This LoRaWAN contact/status change transmitter is specifically designed for smart building, security and industrial applications.It meets all types of ON/OFF status change monitoring needs thanks to its two dry-contact inputs (binary output signal).
 
 # Hardware versions (optional, use when you have revisions)

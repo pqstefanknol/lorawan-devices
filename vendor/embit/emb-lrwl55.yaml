@@ -1,4 +1,4 @@
-name: EMB-LRWL55
+name: Embit EMB-LRWL55
 description: The EMB-LRWL55 is an ultra-low-power LoRaWAN® OEM module based on STM32WL55xx. It is based on Arm® Cortex®‐M4 and Cortex®-M0+ dual cores both running at 48 MHz, and a sub-GHz radio based on Semtech’s SX126x. EMB-LRWL55 is a software open platform, which embeds a fully compliant LoRa® transceiver.
 
 # Firmware versions (at least one is mandatory)

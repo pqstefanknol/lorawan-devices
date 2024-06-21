@@ -1,4 +1,4 @@
-name: EGK-LW22PLG - Smart Plug
+name: Enginko EGK-LW22PLG - Smart Plug
 description: The enginko EGK-LW22PLG is a LoRaWAN® Energy Meter plug with On/Off capability that supports metering and switching of a 230Vac – 16 Amp Load (active, reactive, and apparent energy; Class 0.2).
 
 # Firmware versions (at least one is mandatory)
@@ -13,7 +13,7 @@ firmwareVersions:
       EU863-870:
         # Unique identifier of the profile (lowercase, alphanumeric with dashes, max 36 characters)
         id: eu868-profile-c
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: mcf-power-codec
 
 # Sensors that this device features (optional)

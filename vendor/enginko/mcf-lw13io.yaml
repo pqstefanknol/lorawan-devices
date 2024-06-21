@@ -1,4 +1,4 @@
-name: MCF-LW13IO - Wireless Actuator
+name: Enginko MCF-LW13IO - Wireless Actuator
 description: The enginko MCF-LW13IO is a wireless actuator that consists of an Opto-isolated input and a relay output. The device transmits the status of its input and controls the output through the LoRaWAN® network. Can be used for industrial process control and home automation, water treatment, agriculture irrigation, and similar applications.
 
 # Firmware versions (at least one is mandatory)
@@ -17,15 +17,15 @@ firmwareVersions:
         codec: mcf-io-codec
       US902-928:
         id: us915-profile-c
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: mcf-io-codec
       AU915-928:
         id: au915-profile-c
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: mcf-io-codec
       AS923:
         id: as923-profile-c
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: mcf-io-codec
 
 # Sensors that this device features (optional)

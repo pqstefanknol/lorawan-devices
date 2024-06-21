@@ -1,4 +1,4 @@
-name: EGK-LW20L00 - Level Sensor
+name: Enginko EGK-LW20L00 - Level Sensor
 description: The enginko EGK-LW20L00 is a LoRaWAN® is a battery powered sensor intended for level measurement up to 7 meters.
 
 # Firmware versions (at least one is mandatory)
@@ -13,7 +13,7 @@ firmwareVersions:
       EU863-870:
         # Unique identifier of the profile (lowercase, alphanumeric with dashes, max 36 characters)
         id: eu868-profile-a
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: egk-level-codec
 
 # Sensors that this device features (optional)

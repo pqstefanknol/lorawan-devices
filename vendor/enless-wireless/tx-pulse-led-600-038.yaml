@@ -1,4 +1,4 @@
-name: 600-038 - Pulse sensor for Electric Meter - LED optical reader
+name: Enless Wireless 600-038 - Pulse sensor for Electric Meter - LED optical reader
 description: This LoRaWAN pulse meter transmitter works by reading and transcribing pulsed LED flashes and is therefore compatible with electric meters with light diodes.This radio transmitter allows the remote reading of the electric consumption data from the meter to which it is connected without any manual intervention. In other words, this transmitter will quickly and economically transform your electric meter into a smart meter. hanks to its LED optical reading head, the connection to the meter is simplified and requires only a few seconds.
 
 # Hardware versions (optional, use when you have revisions)
