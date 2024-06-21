@@ -1,4 +1,4 @@
-name: Turtle Board(Class A OTAA)
+name: Heltec Turtle Board(Class A OTAA)
 description: The HelTec Turtle board (Class A OTAA) is a LoRaWAN® development board that supports standard LoRaWAN protocol and RadioShuttle protocol. It allows connecting various sensors through its pins.
 
 firmwareVersions:

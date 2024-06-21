@@ -1,4 +1,4 @@
-name: Turtle Board(Class C ABP)
+name: Heltec Turtle Board(Class C ABP)
 description: The HelTec Turtle board (Class C ABP) is a LoRaWAN® development board that supports standard LoRaWAN protocol and RadioShuttle protocol. It allows connecting various sensors through its pins.
 
 firmwareVersions:

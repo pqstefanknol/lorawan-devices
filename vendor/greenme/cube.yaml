@@ -1,4 +1,4 @@
-name: Cube - Environment Sensor
+name: GreenMe Cube - Environment Sensor
 description: Indoor environment sensor
 
 # Hardware versions (optional, use when you have revisions)
@@ -33,7 +33,7 @@ firmwareVersions:
         vendorID: greenme
         # Identifier of the profile (lowercase, alphanumeric with dashes, max 36 characters)
         id: cube-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: cube-codec
 
 # Sensors that this device features (optional)

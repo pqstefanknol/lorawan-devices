@@ -1,4 +1,4 @@
-name: HTLRBL32L
+name: HT-Micron HTLRBL32L
 description: iMCP – HTLRBL32L is a highly compact and low-power wireless communication device featuring LoRa® and Bluetooth® Low Energy capabilities. In a tiny 13x13x1.1 mm package it allows easy development of solutions for both long and short ranges, whilst requiring minimum power consumption enabling years-long battery life applications.
 
 # Hardware versions (optional, use when you have revisions)
@@ -33,10 +33,10 @@ firmwareVersions:
         # which is verbose.
         # Identifier of the profile (lowercase, alphanumeric with dashes, max 36 characters)
         id: htlrbl32l-profile-868
-        lorawanCertified: false
+        # lorawanCertified: true
       US902-928:
         id: htlrbl32l-profile-915
-        lorawanCertified: false
+        # lorawanCertified: true
 
 deviceType: module
 

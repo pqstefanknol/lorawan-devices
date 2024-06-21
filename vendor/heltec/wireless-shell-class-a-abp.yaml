@@ -1,4 +1,4 @@
-name: Wireless Shell(Class A ABP)
+name: Heltec Wireless Shell(Class A ABP)
 description: The HelTec Wireless Shell (Class A ABP) is an ESP32-PICO + SX1276 module that provides Wi-Fi, BLE, and LoRa communication protocols.
 
 firmwareVersions:

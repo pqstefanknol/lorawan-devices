@@ -1,4 +1,4 @@
-name: Wireless Shell(Class C OTAA)
+name: Heltec Wireless Shell(Class C OTAA)
 description: The HelTec Wireless Shell (Class C OTAA) is an ESP32-PICO + SX1276 module that provides Wi-Fi, BLE, and LoRa communication protocols.
 
 firmwareVersions:

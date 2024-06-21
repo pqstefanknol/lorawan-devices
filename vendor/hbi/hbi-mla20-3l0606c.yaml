@@ -1,4 +1,4 @@
-name: SERIES 300 EAGLE - Emergency lighting
+name: HBI SERIES 300 EAGLE - Emergency lighting
 description: Emergency lighting, Escape route indication.
 # Hardware versions (optional, use when you have revisions)
 hardwareVersions:
@@ -31,7 +31,7 @@ firmwareVersions:
         vendorID: hbi
         # Identifier of the profile (lowercase, alphanumeric with dashes, max 36 characters)
         id: hbi-mla20-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: hbi-mla20-codec
 
 # Sensors that this device features (optional)

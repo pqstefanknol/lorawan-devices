@@ -1,4 +1,4 @@
-name: LoRa Kit 151(Class C ABP)
+name: Heltec LoRa Kit 151(Class C ABP)
 description: The HelTec LoRa Kit 151 (Class C ABP) is a LoRaWAN® development board based on the TM32L151CBU6MCU and SX1278 LoRa chip (433/470 MHz) that supports standard LoRaWAN protocol.
 
 firmwareVersions:

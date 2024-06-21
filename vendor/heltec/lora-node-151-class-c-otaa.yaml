@@ -1,4 +1,4 @@
-name: LoRa Node 151(Class C OTAA)
+name: Heltec LoRa Node 151(Class C OTAA)
 description: The HelTec LoRa Kit 151 (Class C OTAA) is a LoRaWAN® development board based on the STM32L151CCU6 and SX127x LoRa chip that supports standard LoRaWAN protocol.
 
 firmwareVersions:
