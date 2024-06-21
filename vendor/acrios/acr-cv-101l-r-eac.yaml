@@ -1,4 +1,4 @@
-name: 230V AC externally powered RS-485 to LoRaWAN®
+name: Acrios 230V AC externally powered RS-485 to LoRaWAN®
 description: 230V AC externally-powered ACRIOS Systems IoT converter working as RS-485 to LoRaWAN® bridge with implemented LUA scripting interface. The LUA scripting interface allows for message buffering, message splitting, LoRaWAN communication class changes, implementation of custom RS485 protocols as well as Profibus, Modbus RTU, and other operations on the hardware level.
 
 # Hardware versions (optional, use when you have revisions)

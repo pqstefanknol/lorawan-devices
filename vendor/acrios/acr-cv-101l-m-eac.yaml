@@ -1,4 +1,4 @@
-name: Externally powered M-BUS to LoRaWAN®
+name: Acrios Externally powered M-BUS to LoRaWAN®
 description: 230V AC externally-powered ACRIOS Systems IoT converter is working as M-Bus to LoRaWAN® bridge with implemented LUA scripting interface. The LUA scripting interface allows for VIF DIF filtering, message buffering, message splitting, LoRaWAN communication class changes, and other operations on the hardware level. Part of the company portfolio is dedicated to enablement such as the M-Bus backend solution allowing for remote scanning and setting up the VIF DIF filters.
 
 # Hardware versions (optional, use when you have revisions)
