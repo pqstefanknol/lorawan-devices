@@ -1,4 +1,4 @@
-name: Smart Badge
+name: Abeeway Smart Badge
 description: The Abeeway Smart Badge is a wearable LoRaWAN® multi-mode tracker with embedded sensors combining various location tracking technologies such as GPS, Low-power GPS, Wi-Fi Sniffer, BLE, and LoRaWAN TDoA. In addition to that, the Abeeway Smart Badge features a temperature sensor, SOS panic button, and a buzzer.
 # Hardware versions (optional, use when you have revisions)
 hardwareVersions:
@@ -19,14 +19,14 @@ firmwareVersions:
     profiles:
       EU863-870:
         # Unique identifier of the profile (lowercase, alphanumeric with dashes, max 36 characters)
-        id: abeeway-smart-badge-profile-eu868
+        id: abeeway-eu868
         lorawanCertified: true
-      US902-928:
-        id: abeeway-smart-badge-profile-us915
-        lorawanCertified: true
-      AS923:
-        id: abeeway-smart-badge-profile-as923
-        lorawanCertified: true
+      # US902-928:
+        # id: abeeway-us915
+        # lorawanCertified: true
+      # AS923:
+        # id: abeeway-as923
+        # lorawanCertified: true
 
 # Sensors that this device features (optional)
 # Valid values are:

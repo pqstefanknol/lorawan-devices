@@ -1,4 +1,4 @@
-name: Geolocation Module
+name: Abeeway Geolocation Module
 description: The Abeeway Geolocation module for outdoor geolocation contains a high-performance multi-constellation GNSS receiver (GPS, GLONASS, Beidou, and Galileo) and supports a patented ultra Low-Power GPS (LP GPS) mode. Indoor positioning can be achieved by combining the Bluetooth Low Energy receiver and the ultra-low power Wi-Fi receiver.
 
 # Hardware versions (optional, use when you have revisions)
@@ -19,26 +19,26 @@ firmwareVersions:
     profiles:
       EU863-870:
         # Unique identifier of the profile (lowercase, alphanumeric with dashes, max 36 characters)
-        id: abeeway-geolocation-module-profile
+        id: abeeway-eu868
         lorawanCertified: true
-      US902-928:
-        id: abeeway-geolocation-module-profile
-        lorawanCertified: true
-      AU915-928:
-        id: abeeway-geolocation-module-profile
-        lorawanCertified: true
-      AS923:
-        id: abeeway-geolocation-module-profile
-        lorawanCertified: true
-      KR920-923:
-        id: abeeway-geolocation-module-profile
-        lorawanCertified: true
-      IN865-867:
-        id: abeeway-geolocation-module-profile
-        lorawanCertified: true
-      RU864-870:
-        id: abeeway-geolocation-module-profile
-        lorawanCertified: true
+      # US902-928:
+        # id: abeeway-us915
+        # lorawanCertified: true
+      # AU915-928:
+        # id: abeeway-as923
+        # lorawanCertified: true
+      # AS923:
+        # id: abeeway-as923
+        # lorawanCertified: true
+      # KR920-923:
+        # id: abeeway-eu868
+        # lorawanCertified: true
+      # IN865-867:
+        # id: abeeway-eu868
+        # lorawanCertified: true
+      # RU864-870:
+        # id: abeeway-eu868
+        # lorawanCertified: true
 
 deviceType: module
 

@@ -35,7 +35,7 @@ vendors:
     vendorID: 14
 
   - id: adeunis
-    name: Adeunis
+    name: Adeunis Co., Limited
     vendorID: 16
 
   - id: aexonis
@@ -55,7 +55,7 @@ vendors:
     vendorID: 25
 
   - id: alibaba
-    name: Alibaba (China) Co., Ltd
+    name: Alibaba (China) Co., Limited
     vendorID: 26
 
   - id: allion-labs
@@ -172,7 +172,7 @@ vendors:
       github: decentlab
 
   - id: definium
-    name: Definium Technologies, Pty Ltd
+    name: Definium Technologies, Pty Limited
     vendorID: 110
 
   - id: dekra
@@ -192,7 +192,7 @@ vendors:
     vendorID: 116
 
   - id: digital-matter
-    name: Digital Matter Pty Ltd
+    name: Digital Matter Pty Limited
     vendorID: 118
     website: https://www.digitalmatter.com
     logo: logo.svg
@@ -204,7 +204,7 @@ vendors:
     vendorID: 124
 
   - id: easylinkin
-    name: EasyLinkin Co.,LTD.
+    name: EasyLinkin Co., Limited
     vendorID: 125
 
   - id: eddy
@@ -249,7 +249,7 @@ vendors:
     vendorID: 149
 
   - id: ewbm
-    name: eWBM Co., Ltd
+    name: eWBM Co., Limited
     vendorID: 150
 
   - id: ffly4u
@@ -257,7 +257,7 @@ vendors:
     vendorID: 157
 
   - id: fleet-space
-    name: Fleet Space Technologies Pty Ltd
+    name: Fleet Space Technologies Pty Limited
     vendorID: 158
 
   - id: flex-automotive
@@ -285,11 +285,11 @@ vendors:
     vendorID: 182
 
   - id: hexing-electrical
-    name: Hexing Electrical Co., Ltd
+    name: Hexing Electrical Co., Limited
     vendorID: 186
 
   - id: holley
-    name: Holley Technology Ltd
+    name: Holley Technology Limited
     vendorID: 188
 
   - id: iioote
@@ -312,7 +312,7 @@ vendors:
     vendorID: 208
 
   - id: invisible-systems
-    name: Invisible Systems Ltd
+    name: Invisible Systems Limited
     vendorID: 209
 
   - id: invoxia
@@ -382,7 +382,7 @@ vendors:
     vendorID: 231
 
   - id: lacuna-space
-    name: Lacuna Space Ltd.
+    name: Lacuna Space Limited.
     vendorID: 234
 
   - id: laird
@@ -398,7 +398,7 @@ vendors:
     vendorID: 240
 
   - id: lierda
-    name: Lierda Science & Technology Group Co., Ltd
+    name: Lierda Science & Technology Group Co., Limited
     vendorID: 242
 
   - id: loriot
@@ -457,7 +457,7 @@ vendors:
     vendorID: 261
 
   - id: meshed
-    name: Meshed Pty Ltd
+    name: Meshed Pty Limited
     vendorID: 263
 
   - id: meshify
@@ -521,7 +521,7 @@ vendors:
     vendorID: 287
 
   - id: netvox
-    name: Netvox Technology Co., Ltd
+    name: Netvox Technology Co., Limited
     vendorID: 289
 
   - id: ntt
@@ -537,7 +537,7 @@ vendors:
     vendorID: 297
 
   - id: nsoft
-    name: Nsoft India Services Pvt Ltd
+    name: Nsoft India Services Pvt Limited
     vendorID: 298
 
   - id: occammd
@@ -545,11 +545,11 @@ vendors:
     vendorID: 299
 
   - id: oi-electric
-    name: Oi Electric Company Ltd
+    name: Oi Electric Company Limited
     vendorID: 303
 
   - id: oki-electric
-    name: Oki Electric Industry Co., Ltd
+    name: Oki Electric Industry Co., Limited
     vendorID: 304
 
   - id: omniimpex
@@ -647,7 +647,7 @@ vendors:
     vendorID: 363
 
   - id: senra
-    name: SenRa Tech Pvt Ltd
+    name: SenRa Tech Pvt Limited
     vendorID: 364
 
   - id: senseway
@@ -659,7 +659,7 @@ vendors:
     vendorID: 372
 
   - id: shinko-shoji
-    name: Shinko Shoji Co., Ltd
+    name: Shinko Shoji Co., Limited
     vendorID: 375
 
   - id: siradel
@@ -703,7 +703,7 @@ vendors:
     vendorID: 401
 
   - id: swisscom
-    name: Swisscom (Switzerland) Ltd
+    name: Swisscom (Switzerland) Limited
     vendorID: 404
 
   - id: switch-science
@@ -767,7 +767,7 @@ vendors:
     vendorID: 449
 
   - id: ventia
-    name: Ventia Utility Services Pty Ltd
+    name: Ventia Utility Services Pty Limited
     vendorID: 451
 
   - id: viloc
@@ -783,7 +783,7 @@ vendors:
     vendorID: 455
 
   - id: volansys
-    name: Volansys Technologies Pvt Ltd
+    name: Volansys Technologies Pvt Limited
     vendorID: 456
 
   - id: wifx-sarl
@@ -815,7 +815,7 @@ vendors:
     vendorID: 482
 
   - id: nippon-signal
-    name: Nippon Signal Co., Ltd
+    name: Nippon Signal Co., Limited
     vendorID: 483
 
   - id: renesas
@@ -855,7 +855,7 @@ vendors:
     vendorID: 519
 
   - id: rossma
-    name: Rossma Ltd
+    name: Rossma Limited
     vendorID: 526
 
   - id: komro
@@ -875,7 +875,7 @@ vendors:
     vendorID: 534
 
   - id: asr-microelectronics
-    name: ASR Microelectronics (Shanghai) Co., Ltd
+    name: ASR Microelectronics (Shanghai) Co., Limited
     vendorID: 536
 
   - id: andorra-telecom
@@ -887,7 +887,7 @@ vendors:
     vendorID: 538
 
   - id: cybereye
-    name: CyberEye Research Labs & Security Solutions Pvt Ltd
+    name: CyberEye Research Labs & Security Solutions Pvt Limited
     vendorID: 539
 
   - id: resiot
@@ -899,11 +899,11 @@ vendors:
     vendorID: 543
 
   - id: arthur-d-riley
-    name: Arthur D Riley & Co Ltd
+    name: Arthur D Riley & Co Limited
     vendorID: 548
 
   - id: social-area-networks
-    name: Social Area Networks Co., Ltd
+    name: Social Area Networks Co., Limited
     vendorID: 553
 
   - id: optage
@@ -927,7 +927,7 @@ vendors:
     vendorID: 563
 
   - id: esenselab
-    name: eSenseLab Ltd
+    name: eSenseLab Limited
     vendorID: 564
 
   - id: careband
@@ -971,7 +971,7 @@ vendors:
     vendorID: 585
 
   - id: gwinstek
-    name: Good Will Instrument Co., Ltd (GWINSTEK)
+    name: Good Will Instrument Co., Limited (GWINSTEK)
     vendorID: 587
 
   - id: coxcom
@@ -984,11 +984,11 @@ vendors:
     vendorID: 590
 
   - id: st-electronic
-    name: ST Electronics (Info-Comm Systems) Pte. Ltd
+    name: ST Electronics (Info-Comm Systems) Pte. Limited
     vendorID: 595
 
   - id: ztacom
-    name: ZTACOM Co., Ltd
+    name: ZTACOM Co., Limited
     vendorID: 597
 
   - id: boston-networks
@@ -996,7 +996,7 @@ vendors:
     vendorID: 598
 
   - id: milesight-iot
-    name: Milesight IoT Co., Ltd
+    name: Milesight IoT Co., Limited
     vendorID: 601
 
   - id: dataalliance
@@ -1036,7 +1036,7 @@ vendors:
     vendorID: 613
 
   - id: zxclaa
-    name: ZXCLAA Technology Co.Ltd
+    name: ZXCLAA Technology Co., Limited
     vendorID: 615
 
   - id: keysight
@@ -1064,7 +1064,7 @@ vendors:
     vendorID: 634
 
   - id: isa
-    name: ISA Co., Ltd
+    name: ISA Co., Limited
     vendorID: 639
 
   - id: linz
@@ -1099,7 +1099,7 @@ vendors:
     vendorID: 660
 
   - id: alliot
-    name: Alliot Technologies Ltd
+    name: Alliot Technologies Limited
     vendorID: 661
 
   - id: wika
@@ -1131,7 +1131,7 @@ vendors:
     vendorID: 690
 
   - id: iot-ventures
-    name: IoT Ventures Ltd
+    name: IoT Ventures Limited
     vendorID: 691
 
   - id: arduino
@@ -1195,7 +1195,7 @@ vendors:
     vendorID: 716
 
   - id: sichuan-changhong
-    name: Sichuan Changhong Network Technologies Co.,Ltd
+    name: Sichuan Changhong Network Technologies Co., Limited
     vendorID: 718
 
   - id: cicor
@@ -1207,11 +1207,11 @@ vendors:
     vendorID: 721
 
   - id: rubicon
-    name: Rubicon Systems Australia Pty Ltd
+    name: Rubicon Systems Australia Pty Limited
     vendorID: 723
 
   - id: siterwell
-    name: Siterwell Electronics Co., Ltd
+    name: Siterwell Electronics Co., Limited
     vendorID: 724
 
   - id: luxshare
@@ -1243,7 +1243,7 @@ vendors:
     vendorID: 736
 
   - id: hangzhou-watermeter
-    name: Hangzhou Watermeter Co., Ltd
+    name: Hangzhou Watermeter Co., Limited
     vendorID: 737
 
   - id: financiere-de-l-ombre
@@ -1271,7 +1271,7 @@ vendors:
     vendorID: 743
 
   - id: seeed
-    name: Seeed Technology Co., Ltd
+    name: Seeed Technology Co., Limited
     vendorID: 744
 
   - id: ice-gateway
@@ -1279,7 +1279,7 @@ vendors:
     vendorID: 745
 
   - id: shenzhen-hope
-    name: Shenzhen HOPE Microelectronics Co., Ltd
+    name: Shenzhen HOPE Microelectronics Co., Limited
     vendorID: 746
 
   - id: lysir
@@ -1299,7 +1299,7 @@ vendors:
     vendorID: 750
 
   - id: first-snow
-    name: First Snow Co., Ltd
+    name: First Snow Co., Limited
     vendorID: 753
 
   - id: evkalipt-r
@@ -1315,7 +1315,7 @@ vendors:
     vendorID: 756
 
   - id: deepsenxe
-    name: Deepsenxe International Ltd
+    name: Deepsenxe International Limited
     vendorID: 757
 
   - id: lacroix
@@ -1423,7 +1423,7 @@ vendors:
     vendorID: 785
 
   - id: moko
-    name: Moko Technology Ltd
+    name: Moko Technology Limited
     vendorID: 786
 
   - id: talam
@@ -1435,7 +1435,7 @@ vendors:
     vendorID: 789
 
   - id: dtds
-    name: DTDS Technology Pte Ltd
+    name: DTDS Technology Pte Limited
     vendorID: 790
 
   - id: carnegie-mellon-university
@@ -1606,7 +1606,7 @@ vendors:
     vendorID: 834
 
   - id: uros
-    name: Uros Ltd
+    name: Uros Limited
     vendorID: 835
 
   - id: wise-ally
@@ -1657,7 +1657,7 @@ vendors:
     website: http://www.embit.eu/
 
   - id: enthutech
-    name: Enthu Technology Solutions India Pvt Ltd
+    name: Enthu Technology Solutions India Pvt Limited
     website: https://www.enthutech.in/
     logo: logo_enthutech.png
 
@@ -1684,7 +1684,7 @@ vendors:
     logo: logo.png
 
   - id: tekzitel
-    name: TEKZITEL Pty Ltd
+    name: TEKZITEL Pty Limited
     website: https://www.tekzitel.com/
     logo: tekzitel_logo.png
 
@@ -1810,7 +1810,7 @@ vendors:
     logo: tinovi.png
 
   - id: slscorp
-    name: System Level Solutions (India) Pvt. Ltd.
+    name: System Level Solutions (India) Pvt. Limited.
     website: https://www.slscorp.com/
     logo: slscorp_logo.png
     description: We are a Product and Service Company in Hardware & Software established as a Turnkey solution provider. With a strong focus on smart energy, industrial IoT, and utility-grade wireless solutions - covering metering, integration of microgeneration, field operations, consumer devices, and a cloud-based open-standards for the Internet of Things (IoT) platform, SLS has successfully established itself as an international technology provider to multiple sectors.
@@ -1824,7 +1824,7 @@ vendors:
     website: https://dramco.be/
 
   - id: iot4eu
-    name: IOT4 Ltd
+    name: IOT4 Limited
 
   - id: noah
     name: noah GmbH
@@ -1871,7 +1871,7 @@ vendors:
       twitter: sensedgeco
 
   - id: cotx
-    name: Beijing COTX Networks Technologies Co. Ltd.
+    name: Beijing COTX Networks Technologies Co. Limited.
     website: https://www.cotxnetworks.com/
     vendorID: 942
 
@@ -1902,7 +1902,7 @@ vendors:
       linkedin: https://www.linkedin.com/company/ambitlocker
 
   - id: rivercity-innovations
-    name: Rivercity Innovations Ltd.
+    name: Rivercity Innovations Limited.
     vendorID: 959
     description: Rivercity Innovations designs and manufactures data monitoring IoT solutions to help businesses solve issues relating to resource management. Our team specializes in using LoRaWAN technology in cold chain temperature monitoring, commercial property monitoring and GPS tracking.
     website: https://rivercityinnovations.ca/

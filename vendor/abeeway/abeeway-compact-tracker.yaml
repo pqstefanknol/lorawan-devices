@@ -1,4 +1,4 @@
-name: Compact Tracker
+name: Abeeway Compact Tracker
 description: The Abeeway Compact Tracker is a highly versatile multi-mode tracker for outdoor and indoor geolocation with embedded sensors combining GPS, Low-power GPS, Wi-Fi Sniffer, BLE, and LoRa TDoA geolocation technologies.
 # Hardware versions (optional, use when you have revisions)
 hardwareVersions:
@@ -18,16 +18,16 @@ firmwareVersions:
     profiles:
       EU863-870:
         # Unique identifier of the profile (lowercase, alphanumeric with dashes, max 36 characters)
-        id: abeeway-compact-tracker-pro-eu868
+        id: abeeway-eu868
         lorawanCertified: true
-      US902-928:
-        # Unique identifier of the profile (lowercase, alphanumeric with dashes, max 36 characters)
-        id: abeeway-compact-tracker-pro-us915
-        lorawanCertified: true
-      AS923:
-        # Unique identifier of the profile (lowercase, alphanumeric with dashes, max 36 characters)
-        id: abeeway-compact-tracker-pro-as923
-        lorawanCertified: true
+      # US902-928:
+        #Unique identifier of the profile (lowercase, alphanumeric with dashes, max 36 characters)
+        # id: abeeway-us915
+        # lorawanCertified: true
+      # AS923:
+        #Unique identifier of the profile (lowercase, alphanumeric with dashes, max 36 characters)
+        # id: abeeway-as923
+        # lorawanCertified: true
 
 # Sensors that this device features (optional)
 # Valid values are:
