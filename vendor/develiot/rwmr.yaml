@@ -1,5 +1,5 @@
 id: rwmr
-name: Remote Water Meter Reader
+name: Develiot Remote Water Meter Reader
 description: The Develiot Remote Water Meter Reader comes with 2 digital inputs, 2 digital outputs, and with an embedded temperature sensor. It is designed to easily connect with standard pulse water meters or other 3rd party equipment and it transmits data wirelessly and autonomously utilizing LoRaWAN® network protocol.
 
 hardwareVersions:
@@ -13,39 +13,39 @@ firmwareVersions:
     profiles:
       EU863-870:
         # Unique identifier of the profile (lowercase, alphanumeric with dashes, max 36 characters)
-        id: rwmr-profile
+        id: default-profile
         lorawanCertified: true
         codec: rwmr-codec
       US902-928:
-        id: rwmr-profile
+        id: default-profile
         lorawanCertified: true
         codec: rwmr-codec
       AS923:
-        id: rwmr-profile
+        id: default-profile
         lorawanCertified: true
         codec: rwmr-codec
       IN865-867:
-        id: rwmr-profile
+        id: default-profile
         lorawanCertified: true
         codec: rwmr-codec
       AU915-928:
-        id: rwmr-profile
+        id: default-profile
         lorawanCertified: true
         codec: rwmr-codec
       CN779-787:
-        id: rwmr-profile
+        id: default-profile
         lorawanCertified: true
         codec: rwmr-codec
       CN470-510:
-        id: rwmr-profile
+        id: default-profile
         lorawanCertified: true
         codec: rwmr-codec
       KR920-923:
-        id: rwmr-profile
+        id: default-profile
         lorawanCertified: true
         codec: rwmr-codec
       RU864-870:
-        id: rwmr-profile
+        id: default-profile
         lorawanCertified: true
         codec: rwmr-codec
 
