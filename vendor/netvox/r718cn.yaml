@@ -1,4 +1,4 @@
-name: R718CN - Wireless Thermocouple Sensor - Type N
+name: Netvox R718CN - Wireless Thermocouple Sensor - Type N
 description: This equipment is used to detect temperature of the object and medium which thermocouple is contacted. It uses SX1276 wireless communication module. Type N thermocouple (R718CN), and it will display the collected data in the gateway.
 
 hardwareVersions:

@@ -1,4 +1,4 @@
-name: R720C - Wireless Air Pressure and Temperature Sensor
+name: Netvox R720C - Wireless Air Pressure and Temperature Sensor
 description: The R720C is a wireless communication device that detects ambient air pressure and temperature. The R720C detects ambient air pressure and temperature and transmits the detected data to other devices via a wireless network using the SX1276 wireless communication module.
 
 hardwareVersions:

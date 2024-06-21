@@ -1,4 +1,4 @@
-name: RA02A - Wireless Smoke Detector
+name: Netvox RA02A - Wireless Smoke Detector
 description: RA02A is a high reliability wireless control alarm device that detects the concentration of smoke in the air and sends a warning tone. It is a wireless communication method and complies with the LoRaWAN™ protocol standard.
 
 hardwareVersions:

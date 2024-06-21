@@ -1,4 +1,4 @@
-name: R718Y - Wireless Differential Pressure and Temperature Sensor
+name: Netvox R718Y - Wireless Differential Pressure and Temperature Sensor
 description: R718Y is a wireless communication device which can detect the pressure difference. It will transmit the detected data to other devices for display through the wireless network.
 
 hardwareVersions:

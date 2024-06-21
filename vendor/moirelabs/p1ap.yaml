@@ -1,4 +1,4 @@
-name: Pressure Transducer
+name: Moire Labs Pressure Transducer
 description: The Moire Labs Digital pressure transducer P1AP is a telemetry-enabled, battery-powered pressure sensor, which is primarily used to measure pressure in distribution pipes of gasses or liquids and sending the measured data over the wireless network into centralized measurement systems such as SCADA.
 
 firmwareVersions:

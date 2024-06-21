@@ -1,4 +1,4 @@
-name: LoRa Manhole Sensor
+name: Mutelcor LoRa Manhole Sensor
 description: The Mutelcor LoRa Manhole Sensor is a LoRaWAN® Device that detects opening and closing of manholes and/or any external doors. The device notifies alerts in real time to prevent accidents and to quickly react to unauthorized opening of manholes and external doors.
 
 # Hardware versions (optional, use when you have revisions)
@@ -28,27 +28,27 @@ firmwareVersions:
     profiles:
       EU863-870:
         id: mutelcor-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: mutelcor-codec
       US902-928:
         id: mutelcor-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: mutelcor-codec
       IN865-867:
         id: mutelcor-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: mutelcor-codec
       AU915-928:
         id: mutelcor-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: mutelcor-codec
       AS923:
         id: mutelcor-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: mutelcor-codec
       KR920-923:
         id: mutelcor-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: mutelcor-codec
 
 # Sensors that this device features (optional)

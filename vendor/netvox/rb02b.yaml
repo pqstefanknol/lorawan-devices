@@ -1,4 +1,4 @@
-name: RB02B - Wireless 2-Gang Push Button
+name: Netvox RB02B - Wireless 2-Gang Push Button
 description: RB02B is a high-reliability wireless controlling terminal device. It has the characteristics of low power consumption during the standby status, and applying the SX1276 wireless communication module. RB02B is a long-distance smart wall switch which is a Class A device of netvox based on the LoRaWAN open protocol. According to the needs of different applications, press the trigger button of RB02B. The device immediately sends trigger information to the gateway.
 
 hardwareVersions:

@@ -1,4 +1,4 @@
-name: R311K - Wireless Tilt Sensor
+name: Netvox R311K - Wireless Tilt Sensor
 description: This device is a tilt detection sensor. When the device (defaults to the vertical direction ) has a tilt of 45 degrees or more in any direction, a tilt signal will be issued. The detected data is transmitted to other devices through the wireless network.
 
 hardwareVersions:

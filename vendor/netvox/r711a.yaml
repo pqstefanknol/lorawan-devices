@@ -1,4 +1,4 @@
-name: R711A - Wireless Temperature Sensor
+name: Netvox R711A - Wireless Temperature Sensor
 description: R711A is mainly used to detect the temperature of indoor air. It transmits the collected data to other devices for display through the wireless network communication module.
 
 hardwareVersions:

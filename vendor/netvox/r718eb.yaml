@@ -1,4 +1,4 @@
-name: R718EB - Wireless Tilt Angle Sensor
+name: Netvox R718EB - Wireless Tilt Angle Sensor
 description: R718EB has a built-in tilt angle detection sensor. When the device is tilted (compared with the reference angle), the tilt angle will be reported, and the detected data will be transmitted to other devices through the wireless network for display.
 
 hardwareVersions:

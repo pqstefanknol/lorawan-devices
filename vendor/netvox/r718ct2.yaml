@@ -1,4 +1,4 @@
-name: R718CT2 - Wireless 2-Gang Thermocouple Sensor
+name: Netvox R718CT2 - Wireless 2-Gang Thermocouple Sensor
 description: This equipment is used to detect temperature of the object and medium which thermocouple is contacted. It can be connected to two thermocouples for testing. It uses SX1276 wireless communication module. R718CX2 can be connected according to requirements [type K (R718CK2), type T thermocouple (R718CT2), type R thermocouple (R718CR2), type N thermocouple (R718CN2). The collected data is displayed in the gateway.]
 
 hardwareVersions:

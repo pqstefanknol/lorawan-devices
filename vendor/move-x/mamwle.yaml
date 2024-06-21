@@ -1,4 +1,4 @@
-name: MAMWLE
+name: Move-X MAMWLE
 description: MAMWLE is a very tiny low power radio module designed by Move-X, which can be easily integrated into any PCB to enable it for wireless communication. It combines an STM32WLE microprocessor with a Semtech SX1261/2 sub-GHz radio into a 15x16 millimeter module.
 
 # Firmware versions (at least one is mandatory)
@@ -12,15 +12,15 @@ firmwareVersions:
     profiles:
       EU863-870:
         id: mamwle-eu868-profile
-        lorawanCertified: false
+        # lorawanCertified: true
 
       US902-928:
         id: mamwle-us915-profile
-        lorawanCertified: false
+        # lorawanCertified: true
 
       AU915-928:
         id: mamwle-au915-profile
-        lorawanCertified: false
+        # lorawanCertified: true
 
 deviceType: module
 

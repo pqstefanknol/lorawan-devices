@@ -1,4 +1,4 @@
-name: R72616A - Wireless PM2.5/Temperature/Humidity Sensor
+name: Netvox R72616A - Wireless PM2.5/Temperature/Humidity Sensor
 description: R72616A with temperature and humidity sensor can detect and send the temperature and humidity data of the environment. The device is in line with the LoRa protocol standard. R72616A with PM2.5 dust sensor can be used to obtain the concentration of suspended particulates in air per unit volume.
 
 hardwareVersions:

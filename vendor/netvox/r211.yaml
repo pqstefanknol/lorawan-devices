@@ -1,4 +1,4 @@
-name: R211 - Wireless IR Blaster
+name: Netvox R211 - Wireless IR Blaster
 description: Netvox Wireless IR Blaster can be used for IR learning and application. After IR learning, R211 can send the infrared control signal to corresponded electric devices. R211 can receive infrared signal from other infrared device and process predefined action, ex. controlling other LoRa devices.
 
 hardwareVersions:

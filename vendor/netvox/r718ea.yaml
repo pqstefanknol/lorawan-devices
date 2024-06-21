@@ -1,4 +1,4 @@
-name: R718EA - Wireless Tilt Angle and Surface Temperature Sensor
+name: Netvox R718EA - Wireless Tilt Angle and Surface Temperature Sensor
 description: The R718EA is a Wireless Tilt Angle and Surface Temperature Sensor of Netvox ClassA type devices based on the LoRaWAN open protocol and is compatible with the LoRaWAN protocol. It has a built-in tilt sensor and connect external NTC thermistor. When the device detects tilt or temperature change, it will report an uplink packet with the data of tilt angle and temperature. The NTC thermistor detects surface temperature of object.
 
 hardwareVersions:

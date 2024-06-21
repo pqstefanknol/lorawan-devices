@@ -1,4 +1,4 @@
-name: R720G - Wireless GPS Tracker with tilt angle
+name: Netvox R720G - Wireless GPS Tracker with tilt angle
 description: R720G is a compact GPS tracking device with built-in three-axis acceleration sensor. And transmits the detected data to other devices through the wireless network for display, which adopts the SX1276 wireless communication module.
 
 hardwareVersions:

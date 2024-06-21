@@ -1,4 +1,4 @@
-name: R718N360 - Wireless 3-Phase Current Meter Interface
+name: Netvox R718N360 - Wireless 3-Phase Current Meter Interface
 description: The NETVOX wireless three-phase current interface which can detect the current can be connected with the different CTs by the user. The device is compatible with the LoRaWAN protocol and integrates a chip module that conforms to the LoRaWAN wireless protocol to display the collected data in the gateway. The device is powered by battery and obtains the load AC current value through the current transformer.
 
 hardwareVersions:

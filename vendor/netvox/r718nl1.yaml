@@ -1,4 +1,4 @@
-name: R718NL1 - Wireless Light Sensor and 1-Phase Current Meter with 1x(30A, 75A, 150A, 250A, 630A)Clamp-On CT
+name: Netvox R718NL1 - Wireless Light Sensor and 1-Phase Current Meter with 1x(30A, 75A, 150A, 250A, 630A)Clamp-On CT
 description: The NETVOX Wireless Light Sensor and 1-Phase Current Meter with 1x30A Clamp-On CT is used to detect single-phase electrical input current and ambient light intensity detection. The device is compatible with the LoRaWAN protocol, and integrates a chip module that conforms to the LoRaWAN wireless protocol to display the collected data in the gateway. The device adopts the split-core current transformer, which can be conveniently connected to the measuring device. R718NL1 series have different measuring range for different variety of CT(30A, 75A, 150A, 250A, 630A).
 
 hardwareVersions:

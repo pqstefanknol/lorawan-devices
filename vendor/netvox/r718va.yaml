@@ -1,4 +1,4 @@
-name: R718VA - Wireless Capacitive Proximity Sensor
+name: Netvox R718VA - Wireless Capacitive Proximity Sensor
 description: R718VA is a device to detect the status of toilet water, hand sanitizer level, presence or absence of tissue. This device is connected with a non-contact capacitive sensor can be mounted to the exterior of the container, without direct contact with the object to be detected, which may detect the current water level of positions mounted, or the presence or absence of liquid soap or toilet paper; the detected data is transmitted to other devices through the wireless network. It uses the SX1276 wireless communication module.
 
 hardwareVersions:

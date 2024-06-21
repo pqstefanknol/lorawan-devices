@@ -1,4 +1,4 @@
-name: R311WA - Wireless Seat Sensor
+name: Netvox R311WA - Wireless Seat Sensor
 description: The NETVOX wireless seat sensor (two way) R311W A is a device that detects the presence of a seat and is compatible with the LoRaWAN protocol. If there is someone on the seat, R311WA will send a message to the gateway. When detecting no one on a sensor seat, it will send an normal status message back to the gateway.
 
 hardwareVersions:

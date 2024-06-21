@@ -1,4 +1,4 @@
-name: RB02C - Wireless 3-Gang Push Button
+name: Netvox RB02C - Wireless 3-Gang Push Button
 description: RB02C is a high-reliability wireless controlling terminal device for smart homes. It has the characteristics of standby, low power consumption, and applying the SX1276 wireless communication module. RB02C has three buttons which can control three switch devices.
 
 hardwareVersions:

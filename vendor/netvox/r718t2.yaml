@@ -1,4 +1,4 @@
-name: R718T2 - Wireless 2-Input Push Button Interface
+name: Netvox R718T2 - Wireless 2-Input Push Button Interface
 description: The Wireless 2-Input Push Button Interface allows a notification signal to be sent when connected push button is pushed. When someone is in danger and needs emergency assistance, press the emergency push button device; R718T2 immediately sends an alarm message to the gateway.
 
 hardwareVersions:

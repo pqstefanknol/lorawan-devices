@@ -1,4 +1,4 @@
-name: Model 4811 Remote Power Meter
+name: MCCI Model 4811 Remote Power Meter
 description: Real-time power monitor for commercial and residential buildings
 
 # Hardware versions (optional, used for revisions)
@@ -23,27 +23,27 @@ firmwareVersions:
       EU863-870:
         # unique ID of the profile (lowercase, alpha with dashes, max 36)
         id: model4811-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: codec-model4811
       US902-928:
         id: model4811-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: codec-model4811
       AU915-928:
         id: model4811-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: codec-model4811
       AS923:
         id: model4811-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: codec-model4811
       KR920-923:
         id: model4811-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: codec-model4811
       IN865-867:
         id: model4811-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: codec-model4811
 
 # Sensors that this device features (optional)

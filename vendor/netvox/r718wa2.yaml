@@ -1,4 +1,4 @@
-name: R718WA2 - Wireless 2-Gang Water Leak Detector
+name: Netvox R718WA2 - Wireless 2-Gang Water Leak Detector
 description: The device is a LoRaWAN™ device compatible with LoRaWAN™ protocol (Class A). When the sensor detects the leak, it will send an alarm message to the gateway. R718WA2 carries 2 water leak sensors. It uses SX1276 wireless communication module.
 
 hardwareVersions:

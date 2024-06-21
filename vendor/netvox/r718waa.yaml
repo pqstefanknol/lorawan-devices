@@ -1,4 +1,4 @@
-name: R718WAA - Wireless Water Leakage/Temperature/Humidity Sensor
+name: Netvox R718WAA - Wireless Water Leakage/Temperature/Humidity Sensor
 description: This device is used for water leakage detection and environmental temperature and humidity detection. When the water leakage sensor detects water leakage, it will send an alarm message to the gateway.
 
 hardwareVersions:

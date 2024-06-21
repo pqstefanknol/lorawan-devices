@@ -1,4 +1,4 @@
-name: R311FA1 - Wireless 3-axis Accelerometer Sensor
+name: Netvox R311FA1 - Wireless 3-axis Accelerometer Sensor
 description: When the device moves or shakes beyond the set threshold, it immediately reports the current acceleration and velocity of the X, Y, and Z axes.
 
 hardwareVersions:

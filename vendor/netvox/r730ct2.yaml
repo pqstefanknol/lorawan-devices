@@ -1,4 +1,4 @@
-name: R730CT2 - Wireless 2-Gang Thermocouple Interface - T type
+name: Netvox R730CT2 - Wireless 2-Gang Thermocouple Interface - T type
 description: This equipment is used to detect temperature of the object and medium which thermocouple is contacted. It can be connected to two thermocouples for testing. It uses SX1276 wireless communication module.
 hardwareVersions:
   - version: '2'

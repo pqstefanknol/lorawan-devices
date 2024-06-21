@@ -1,4 +1,4 @@
-name: R718NL3 - Wireless Light Sensor and 3-Phase Current Meter with 3x150A Clamp-On CT
+name: Netvox R718NL3 - Wireless Light Sensor and 3-Phase Current Meter with 3x150A Clamp-On CT
 description: The NETVOX Wireless Light Sensor and 3-Phase Current Meter with 3x150A Clamp-On CT is used to detect three-phase electrical input current and ambient light intensity detection. The device is compatible with the LoRaWAN protocol, and integrates a chip module that conforms to the LoRaWAN wireless protocol to display the collected data in the gateway. The device adopts the split-core current transformer, which can be conveniently connected to the measuring device.
 
 hardwareVersions:

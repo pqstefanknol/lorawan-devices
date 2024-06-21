@@ -1,4 +1,4 @@
-name: R720F - Wireless Liquid Hand Soap Sensor
+name: Netvox R720F - Wireless Liquid Hand Soap Sensor
 description: R720F series is a wireless communication device that can detect the existence of hand sanitizer / water leakage. This device is connected with two electrode rods which can be used to detect the state of the insufficient amount of hand sanitizer in the hand sanitizer box or whether there is the water leakage in the detection area.The shape and orientation of electrode rod can be selected according to the needs (R720FLO,R720FLD,R720FU). The electrode rod can be trimmed to the required length by self according to the demand.The function of water leakage detection can choose R720FW.
 
 hardwareVersions:

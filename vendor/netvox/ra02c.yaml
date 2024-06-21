@@ -1,4 +1,4 @@
-name: RA02C - Wireless CO Detector
+name: Netvox RA02C - Wireless CO Detector
 description: RA02C is a wireless control alarm device for smart home and high reliability. It adopts wireless communication method conforming to the LoRaWAN protocol standard. RA02C is a device for the detection of harmful gases in the home environment. It is suitable for the detection of CO (carbon monoxide). When the concentration exceeds the preset value, it will trigger the alarm and fully comply with the LoRaWAN protocol standard.
 
 hardwareVersions:

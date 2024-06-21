@@ -1,4 +1,4 @@
-name: R602A - LoRa-Siren
+name: Netvox R602A - LoRa-Siren
 description: R602A is a smart wireless alarm that can communicate with other devices through a wireless network. It has a high-decibel speaker and high-brightness LED which can realize sound and light alarms. It adopts SX1276 wireless communication module.
 
 hardwareVersions:

@@ -1,4 +1,4 @@
-name: R311LA - Wireless Infrared Proximity Sensor
+name: Netvox R311LA - Wireless Infrared Proximity Sensor
 description: R311LA is able to detect the existence of the object nearby. It has an infrared proximity sensor that can detect if there is object existing within it detection range and transmits the detected data to Gateway for display via a wireless network; it uses the SX1276 wireless communication module.
 
 hardwareVersions:

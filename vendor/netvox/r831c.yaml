@@ -1,4 +1,4 @@
-name: R831C - Wireless Multifunctional Control Box
+name: Netvox R831C - Wireless Multifunctional Control Box
 description: R831C have three relay switches(output) and three dry contacts(input). R831C can control 3 relay devices through external dry contact button or downlink commands.
 
 hardwareVersions:

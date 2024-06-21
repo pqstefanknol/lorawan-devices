@@ -1,4 +1,4 @@
-name: R718IB2 - Wireless 2-Input 0-10V ADC Sampling Interface
+name: Netvox R718IB2 - Wireless 2-Input 0-10V ADC Sampling Interface
 description: This device can be connected to an ADC sampling interface device. As shown in the figure, black is the ground line, red is the ADC sampling interface line, and the ADC sampling voltage range is 0-10V. It uses the SX1276 wireless communication module. The wireless communication is compatible with LoRaWAN™ protocol (ClassA).
 
 hardwareVersions:

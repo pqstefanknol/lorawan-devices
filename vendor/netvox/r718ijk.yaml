@@ -1,4 +1,4 @@
-name: R718IJK - Wireless Multi-Sensor Interface for 0-24V ADC, Dry Contact and 4-20mA Sensors
+name: Netvox R718IJK - Wireless Multi-Sensor Interface for 0-24V ADC, Dry Contact and 4-20mA Sensors
 description: This device is used for detecting 4mA-20mA signal, 0-24V DC ADC samples and dry contact features which employs SX1276 wireless communication module . R718IJK can detect 4mA-20mA signal, 0-24V DC ADC sampling signal and dry contact input signal, and send the detection signal data to the gateway, and display the collected data in the monitoring platform.
 hardwareVersions:
   - version: '1'

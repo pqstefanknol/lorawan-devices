@@ -1,4 +1,4 @@
-name: R718UBD - Wireless Multifunctional CO2 Sensor
+name: Netvox R718UBD - Wireless Multifunctional CO2 Sensor
 description: R718UBD series is a wireless communication device that can detect CO2 in the environment and can be combined with a variety of sensors. And transmits the detected data to other devices through the wireless network for display, which adopts the SX1276 wireless communication module.
 
 hardwareVersions:

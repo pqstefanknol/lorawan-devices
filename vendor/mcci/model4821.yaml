@@ -1,4 +1,4 @@
-name: Model 4821 Indoor Environmental Sensor (BME280)
+name: MCCI Model 4821 Indoor Environmental Sensor (BME280)
 description: The MCCI® Model 4821 Indoor Environment Sensor is based on MCCI Catena 4612 which consists of temperature, humidity, pressure, and light sensors.
 
 # Hardware versions (optional, used for revisions)
@@ -23,27 +23,27 @@ firmwareVersions:
       EU863-870:
         # unique ID of the profile (lowercase, alpha with dashes, max 36)
         id: model4821-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: codec-catena-generic
       US902-928:
         id: model4821-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: codec-catena-generic
       AU915-928:
         id: model4821-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: codec-catena-generic
       AS923:
         id: model4821-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: codec-catena-generic
       KR920-923:
         id: model4821-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: codec-catena-generic
       IN865-867:
         id: model4821-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: codec-catena-generic
 
 # Sensors that this device features (optional)

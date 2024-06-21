@@ -1,4 +1,4 @@
-name: R718B2 - Wireless 2-Gang Temperature Sensor
+name: Netvox R718B2 - Wireless 2-Gang Temperature Sensor
 description: R718B2 connects two external resistance temperature detectors (PT1000) to measures the temperature.
 
 hardwareVersions:

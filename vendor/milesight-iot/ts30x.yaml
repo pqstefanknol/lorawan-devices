@@ -39,19 +39,7 @@ firmwareVersions:
 
 sensors:
   - digital input
-  # pulse count
-  # digital input
-  # analog input
   - pt100
-  # modbus channels
-  #   index
-  #   reading
-
-bridgeInterfaces:
-  # modbus
-  # rs-485
-  # rs-232
-  # analog
 
 dimensions:
   width: 75

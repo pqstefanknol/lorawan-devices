@@ -1,4 +1,4 @@
-name: R718UBB - Wireless Multifunctional CO2 Sensor
+name: Netvox R718UBB - Wireless Multifunctional CO2 Sensor
 description: R718UBB all-in-one series is a ClassA type testing device based on LoRaWAN open protocol of Netvox, which can support multiple combinations of temperature and humidity, CO2, vibration, atmospheric pressure and illumination sensors, and is compatible with LoRaWAN protocol.
 
 hardwareVersions:

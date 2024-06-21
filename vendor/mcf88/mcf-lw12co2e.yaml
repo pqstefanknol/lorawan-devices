@@ -1,4 +1,4 @@
-name: MCF-LW12CO2E
+name: MCF88-LW12CO2E
 description: The MCF-LW12CO2E is a battery powered sensor for indoor applications that reads temperature, relative humidity, pressure, ambient light, IAQ air quality index and CO2. Ideally suited for a wide range of applications such as home buildings, air quality monitoring and energy saving applications.
 
 # Firmware versions (at least one is mandatory)
@@ -13,19 +13,19 @@ firmwareVersions:
       EU863-870:
         # Unique identifier of the profile (lowercase, alphanumeric with dashes, max 36 characters)
         id: eu868-profile-a
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: mcf-environmental-codec
       US902-928:
         id: us915-profile-a
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: mcf-environmental-codec
       AU915-928:
         id: au915-profile-a
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: mcf-environmental-codec
       AS923:
         id: as923-profile-a
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: mcf-environmental-codec
 
 # Sensors that this device features (optional)

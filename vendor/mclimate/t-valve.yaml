@@ -1,4 +1,4 @@
-name: T-Valve - Water valve
+name: MClimate T-Valve - Water valve
 description: The MClimate T-Valve is a LoRaWAN® water valve equipped with water temperature, ambient temperature, magnetic, flood, and box tampering sensors. It can be used in residential or commercial buildings.
 
 # Firmware versions (at least one is mandatory)
@@ -13,7 +13,7 @@ firmwareVersions:
       EU863-870:
         # Unique identifier of the profile (lowercase, alphanumeric with dashes, max 36 characters)
         id: t-valve-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: t-valve-codec
 
 # Sensors that this device features (optional)

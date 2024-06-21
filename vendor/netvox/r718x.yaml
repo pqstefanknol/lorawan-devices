@@ -1,4 +1,4 @@
-name: R718X - Wireless Ultrasonic Distance Sensor
+name: Netvox R718X - Wireless Ultrasonic Distance Sensor
 description: R718X is a wireless device that detect distance by ultrasonic ranging sensor. R718X also equips an NTC temperature sensor and will send alarm message while detecting abnormal temperature.
 
 hardwareVersions:

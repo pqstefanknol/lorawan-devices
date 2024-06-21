@@ -1,4 +1,4 @@
-name: MCF-LW12CO2
+name: MCF88-LW12CO2
 description: The mcf88 MCF-LW12CO2 LoRaWAN® indoor environmental sensor equipped with temperature, humidity, pressure, light intensity, air quality (expressed as IAQ or bVOC value), and CO2 sensors and sends collected data over the LoRaWAN® network. Ideally suited for a wide range of applications such as building automation, condition monitoring, predictive maintenance, security, healthcare, and many more use cases.
 
 # Firmware versions (at least one is mandatory)
@@ -13,19 +13,19 @@ firmwareVersions:
       EU863-870:
         # Unique identifier of the profile (lowercase, alphanumeric with dashes, max 36 characters)
         id: eu868-profile-a
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: mcf-environmental-codec
       US902-928:
         id: us915-profile-a
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: mcf-environmental-codec
       AU915-928:
         id: au915-profile-a
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: mcf-environmental-codec
       AS923:
         id: as923-profile-a
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: mcf-environmental-codec
 
 # Sensors that this device features (optional)

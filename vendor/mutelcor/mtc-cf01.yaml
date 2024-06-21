@@ -1,4 +1,4 @@
-name: LoRa Customer Feedback
+name: Mutelcor LoRa Customer Feedback
 description: The Mutelcor LoRa Customer Feedback is an end-to-end feedback monitoring device leveraging LoRaWAN® Technology. An easy to use device with 3 smiley-buttons which facilitates to gather, analyse and report user feedback in real time.
 
 # Hardware versions (optional, use when you have revisions)
@@ -28,27 +28,27 @@ firmwareVersions:
     profiles:
       EU863-870:
         id: mutelcor-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: mutelcor-codec
       US902-928:
         id: mutelcor-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: mutelcor-codec
       IN865-867:
         id: mutelcor-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: mutelcor-codec
       AU915-928:
         id: mutelcor-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: mutelcor-codec
       AS923:
         id: mutelcor-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: mutelcor-codec
       KR920-923:
         id: mutelcor-profile
-        lorawanCertified: false
+        # lorawanCertified: true
         codec: mutelcor-codec
 
 # Sensors that this device features (optional)
